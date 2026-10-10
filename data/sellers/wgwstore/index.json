@@ -1,11 +1,11 @@
 {
-  "next_page": 66,
+  "next_page": 101,
   "total_pages": 718,
   "seller": "wgwstore",
-  "last_scan_attempt": "2026-10-10T09:15:19.889362+00:00",
-  "saved_pages": 65,
-  "listing_count_estimate": 6500,
+  "last_scan_attempt": "2026-10-10T09:19:26.107936+00:00",
+  "saved_pages": 100,
+  "listing_count_estimate": 10000,
   "complete": false,
-  "last_run_pages": 50,
-  "stopped_reason": null
+  "last_run_pages": 35,
+  "stopped_reason": "Discogs API access denied or throttled"
 }
