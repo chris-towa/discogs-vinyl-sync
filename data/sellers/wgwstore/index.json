@@ -1,11 +1,11 @@
 {
-  "next_page": 16,
+  "next_page": 66,
   "total_pages": 718,
   "seller": "wgwstore",
-  "last_scan_attempt": "2026-10-10T09:07:16.280216+00:00",
-  "saved_pages": 15,
-  "listing_count_estimate": 1500,
+  "last_scan_attempt": "2026-10-10T09:15:19.889362+00:00",
+  "saved_pages": 65,
+  "listing_count_estimate": 6500,
   "complete": false,
-  "last_run_pages": 15,
+  "last_run_pages": 50,
   "stopped_reason": null
 }
