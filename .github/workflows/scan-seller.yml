@@ -2,32 +2,43 @@ name: Scan Discogs Seller Inventory
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '23 2 * * *'
 
 permissions:
   contents: write
 
+concurrency:
+  group: seller-inventory-scan
+  cancel-in-progress: false
+
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Scan wgwstore full public inventory
+      - name: Scan wgwstore inventory incrementally
         env:
           DISCOGS_SELLER: wgwstore
           DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+          PAGES_PER_RUN: '15'
+          DISCOGS_REQUEST_DELAY: '3.5'
         run: python scripts/scan_seller.py
-      - name: Commit inventory snapshot
+      - name: Commit progress even after a failed scan
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/sellers/wgwstore/
+          git add data/sellers/wgwstore/ || true
           if ! git diff --cached --quiet; then
-            git commit -m "Snapshot wgwstore seller inventory"
+            git commit -m "Checkpoint wgwstore inventory scan"
             git push
           else
-            echo "No changes"
+            echo "No new progress"
           fi
