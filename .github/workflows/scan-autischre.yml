@@ -1,0 +1,42 @@
+name: Scan autischre Discogs Inventory
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: autischre-inventory-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Scan autischre inventory incrementally
+        env:
+          DISCOGS_SELLER: autischre
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+          PAGES_PER_RUN: '30'
+          DISCOGS_REQUEST_DELAY: '4.0'
+        run: python scripts/scan_seller.py
+      - name: Commit saved inventory pages
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sellers/autischre/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Checkpoint autischre inventory scan"
+            git push
+          else
+            echo "No new progress"
+          fi
