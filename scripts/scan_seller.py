@@ -14,7 +14,7 @@ import urllib.parse
 import urllib.request
 
 SELLER = os.getenv("DISCOGS_SELLER", "wgwstore")
-PAGES_PER_RUN = max(1, min(int(os.getenv("PAGES_PER_RUN", "15")), 30))
+PAGES_PER_RUN = max(1, min(int(os.getenv("PAGES_PER_RUN", "50")), 75))
 DELAY = max(float(os.getenv("DISCOGS_REQUEST_DELAY", "3.5")), 2.0)
 OUT = Path("data/sellers") / SELLER
 HEADERS = {"User-Agent": "VinylDiggingResearch/1.1 (personal record discovery; github.com/chris-towa/discogs-vinyl-sync)", "Accept": "application/vnd.discogs.v2.discogs+json"}
