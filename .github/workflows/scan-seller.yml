@@ -27,7 +27,7 @@ jobs:
         env:
           DISCOGS_SELLER: wgwstore
           DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
-          PAGES_PER_RUN: '15'
+          PAGES_PER_RUN: '50'
           DISCOGS_REQUEST_DELAY: '3.5'
         run: python scripts/scan_seller.py
       - name: Commit progress even after a failed scan
