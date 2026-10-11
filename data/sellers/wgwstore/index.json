@@ -2,10 +2,10 @@
   "next_page": 101,
   "total_pages": 718,
   "seller": "wgwstore",
-  "last_scan_attempt": "2026-10-11T13:36:55.876837+00:00",
+  "last_scan_attempt": "2026-10-11T13:40:01.468298+00:00",
   "saved_pages": 100,
   "listing_count_estimate": 10000,
   "complete": false,
   "last_run_pages": 0,
-  "stopped_reason": "Discogs API access denied or throttled"
+  "stopped_reason": "HTTP 403 Forbidden"
 }
