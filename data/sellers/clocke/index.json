@@ -1,10 +1,10 @@
 {
-  "next_page": 31,
+  "next_page": 61,
   "total_pages": 104,
   "seller": "clocke",
-  "last_scan_attempt": "2026-10-11T14:13:34.907769+00:00",
-  "saved_pages": 30,
-  "listing_count_estimate": 3000,
+  "last_scan_attempt": "2026-10-11T14:18:20.846171+00:00",
+  "saved_pages": 60,
+  "listing_count_estimate": 6000,
   "complete": false,
   "last_run_pages": 30,
   "stopped_reason": null
