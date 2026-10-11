@@ -1,9 +1,99 @@
 {
   "collection_added": [],
   "collection_removed": [],
-  "generated_at": "2026-10-10T05:32:14.135144+00:00",
+  "generated_at": "2026-10-11T05:32:54.332225+00:00",
   "initial_sync": false,
   "username": "chris-towa",
-  "wantlist_added": [],
-  "wantlist_removed": []
+  "wantlist_added": [
+    {
+      "added": "2026-10-10T07:14:37-07:00",
+      "artist": "Gora & Eloy",
+      "label": "Chiwax",
+      "release_id": 14682195,
+      "title": "Future Is Never",
+      "year": 2020
+    },
+    {
+      "added": "2026-10-10T09:08:30-07:00",
+      "artist": "Downtown Loop",
+      "label": "Luxury Service Records, Luxury Service Records, Luxury Service Records",
+      "release_id": 172291,
+      "title": "Do I Have All Your Love",
+      "year": 1997
+    },
+    {
+      "added": "2026-10-10T08:43:41-07:00",
+      "artist": "Gerd, Elbee Bad",
+      "label": "4 Lux",
+      "release_id": 2962360,
+      "title": "H.O.U.S.E.",
+      "year": 2011
+    },
+    {
+      "added": "2026-10-10T07:07:35-07:00",
+      "artist": "Frits Wentink",
+      "label": "Royal Oak",
+      "release_id": 30088506,
+      "title": "Spiritual Basslines",
+      "year": 2024
+    },
+    {
+      "added": "2026-10-10T07:11:35-07:00",
+      "artist": "That Garage Sound Vol. 2",
+      "label": "Rain Or Shine",
+      "release_id": 32100138,
+      "title": "Got The Speed / P*ssy Fax",
+      "year": 2024
+    },
+    {
+      "added": "2026-10-10T07:04:49-07:00",
+      "artist": "Model 500",
+      "label": "Metroplex",
+      "release_id": 32618295,
+      "title": "Deep Space",
+      "year": 2024
+    },
+    {
+      "added": "2026-10-10T08:45:57-07:00",
+      "artist": "NY Stomp",
+      "label": "Illusion Recordings",
+      "release_id": 3416819,
+      "title": "Can You Feel It? E.P.",
+      "year": 2012
+    },
+    {
+      "added": "2026-10-10T09:05:14-07:00",
+      "artist": "House Of Whacks",
+      "label": "Luxury Service Records",
+      "release_id": 47230,
+      "title": "My Sister's Daughter",
+      "year": 1995
+    },
+    {
+      "added": "2026-10-10T08:56:05-07:00",
+      "artist": "Markus Sommer (2), Phil Evans (9)",
+      "label": "Sensual Records (2)",
+      "release_id": 7076976,
+      "title": "Strange Advise EP",
+      "year": 2015
+    }
+  ],
+  "wantlist_removed": [
+    {
+      "added": "2014-10-29T15:03:19-07:00",
+      "artist": "Frederik Eisink",
+      "label": "Grammafoon Recordings",
+      "release_id": 3853012,
+      "title": "Switch",
+      "year": 2012
+    },
+    {
+      "added": "2017-02-12T09:03:58-08:00",
+      "artist": "Spac Hand Luke",
+      "label": "Rephlex",
+      "release_id": 699163,
+      "title": "Sidthug",
+      "year": 2006
+    }
+  ]
 }

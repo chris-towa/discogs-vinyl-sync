@@ -629,6 +629,68 @@
         "artists": [
           {
             "anv": "",
+            "id": 3221,
+            "join": "&",
+            "name": "Gerd",
+            "resource_url": "https://api.discogs.com/artists/3221",
+            "role": "",
+            "tracks": ""
+          },
+          {
+            "anv": "",
+            "id": 6264,
+            "join": "",
+            "name": "Elbee Bad",
+            "resource_url": "https://api.discogs.com/artists/6264",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/LUafi9F27lE5qkKkq4fVqkMhhuE9_6OyW1h2dyGnrrg/rs:fit/g:sm/q:90/h:587/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIz/NjAtMTMwOTM0NTI0/Mi5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "33 ⅓ RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 2962360,
+        "labels": [
+          {
+            "catno": "4LUX011-04",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 10746,
+            "name": "4 Lux",
+            "resource_url": "https://api.discogs.com/labels/10746"
+          }
+        ],
+        "master_id": 1731406,
+        "master_url": "https://api.discogs.com/masters/1731406",
+        "resource_url": "https://api.discogs.com/releases/2962360",
+        "styles": [
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/SYbEGozOeT8cz4odn8IrS1rt9xRQE356YC2Np5maGe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIz/NjAtMTMwOTM0NTI0/Mi5qcGVn.jpeg",
+        "title": "H.O.U.S.E.",
+        "year": 2011
+      },
+      "date_added": "2026-10-10T08:43:41-07:00",
+      "id": 2962360,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/2962360"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 1079020,
             "join": "",
             "name": "Kez YM",
@@ -8838,6 +8900,59 @@
       "id": 28214,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/28214"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 6764399,
+            "join": "",
+            "name": "Gora & Eloy",
+            "resource_url": "https://api.discogs.com/artists/6764399",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/7R6Cfw1j295aM8kfWPRXQNsjIA-qLMeuom9YUMM-Tcc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/MTk1LTE1ODM1Mjcy/NjEtNjczNi5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\""
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 14682195,
+        "labels": [
+          {
+            "catno": "CTX07",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 324413,
+            "name": "Chiwax",
+            "resource_url": "https://api.discogs.com/labels/324413"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/14682195",
+        "styles": [
+          "House",
+          "Acid House"
+        ],
+        "thumb": "https://i.discogs.com/8hHbQ15XM0oekDIkzC_l8RQWbZagqz-YsS-xW0Db4Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/MTk1LTE1ODM1Mjcy/NjEtNjczNi5qcGVn.jpeg",
+        "title": "Future Is Never",
+        "year": 2020
+      },
+      "date_added": "2026-10-10T07:14:37-07:00",
+      "id": 14682195,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/14682195"
     },
     {
       "basic_information": {
@@ -17755,7 +17870,7 @@
         ],
         "thumb": "https://i.discogs.com/WRzyFoHgG7pJhAuikJ2zVfZpYtn72Z2GEiPDA0GhrN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUz/MjUtMTIzNzQ5ODc4/Ni5qcGVn.jpeg",
         "title": "I Believe You And Me Make Love Forever",
-        "year": 2009
+        "year": 2017
       },
       "date_added": "2015-06-13T01:45:59-07:00",
       "id": 1695325,
@@ -18377,61 +18492,6 @@
       "id": 6159283,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/6159283"
-    },
-    {
-      "basic_information": {
-        "artists": [
-          {
-            "anv": "",
-            "id": 2911000,
-            "join": "",
-            "name": "Frederik Eisink",
-            "resource_url": "https://api.discogs.com/artists/2911000",
-            "role": "",
-            "tracks": ""
-          }
-        ],
-        "cover_image": "https://i.discogs.com/HX3m9uoIzpUAm96lpnGjRsjVTLrmsyWfLZaDyhtmFIU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTMw/MTItMTM0NjkzNzgz/MS02OTM2LmpwZWc.jpeg",
-        "formats": [
-          {
-            "descriptions": [
-              "12\"",
-              "33 ⅓ RPM"
-            ],
-            "name": "Vinyl",
-            "qty": "1"
-          }
-        ],
-        "genres": [
-          "Electronic"
-        ],
-        "id": 3853012,
-        "labels": [
-          {
-            "catno": "gramma001",
-            "entity_type": "1",
-            "entity_type_name": "Label",
-            "id": 91703,
-            "name": "Grammafoon Recordings",
-            "resource_url": "https://api.discogs.com/labels/91703"
-          }
-        ],
-        "master_id": 0,
-        "master_url": null,
-        "resource_url": "https://api.discogs.com/releases/3853012",
-        "styles": [
-          "House",
-          "Deep House",
-          "Tech House"
-        ],
-        "thumb": "https://i.discogs.com/k5ghDKwSG24Zv3JuQ1LmOmDapbMA-XVR6fj1DQFlv9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTMw/MTItMTM0NjkzNzgz/MS02OTM2LmpwZWc.jpeg",
-        "title": "Switch",
-        "year": 2012
-      },
-      "date_added": "2014-10-29T15:03:19-07:00",
-      "id": 3853012,
-      "rating": 0,
-      "resource_url": "https://api.discogs.com/users/chris-towa/wants/3853012"
     },
     {
       "basic_information": {
@@ -20257,6 +20317,61 @@
       "id": 5425093,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/5425093"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 2569827,
+            "join": "",
+            "name": "NY Stomp",
+            "resource_url": "https://api.discogs.com/artists/2569827",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/UOrLqxHNpdZgWBo44unmrOcPWzJYupBrT08dwV0Qc60/rs:fit/g:sm/q:90/h:596/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY4/MTktMTMyOTY0OTU4/Mi5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "EP",
+              "33 ⅓ RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 3416819,
+        "labels": [
+          {
+            "catno": "ILL003",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 317320,
+            "name": "Illusion Recordings",
+            "resource_url": "https://api.discogs.com/labels/317320"
+          }
+        ],
+        "master_id": 1371473,
+        "master_url": "https://api.discogs.com/masters/1371473",
+        "resource_url": "https://api.discogs.com/releases/3416819",
+        "styles": [
+          "House",
+          "Deep House"
+        ],
+        "thumb": "https://i.discogs.com/73d6OjDVfHHrHZucCGLLFGxzsiM-r_IvuzcSotd67hU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY4/MTktMTMyOTY0OTU4/Mi5qcGVn.jpeg",
+        "title": "Can You Feel It? E.P.",
+        "year": 2012
+      },
+      "date_added": "2026-10-10T08:45:57-07:00",
+      "id": 3416819,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/3416819"
     },
     {
       "basic_information": {
@@ -24263,6 +24378,130 @@
         "artists": [
           {
             "anv": "",
+            "id": 22139,
+            "join": "",
+            "name": "House Of Whacks",
+            "resource_url": "https://api.discogs.com/artists/22139",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/bhXVMq75Jb5ksVccgFuOKzArVauBNfFbysiTtQN7-Gw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjMw/LTE1MzA5MDk2Njkt/MzgzMy5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "33 ⅓ RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 47230,
+        "labels": [
+          {
+            "catno": "DISC 006",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 89436,
+            "name": "Luxury Service Records",
+            "resource_url": "https://api.discogs.com/labels/89436"
+          }
+        ],
+        "master_id": 997163,
+        "master_url": "https://api.discogs.com/masters/997163",
+        "resource_url": "https://api.discogs.com/releases/47230",
+        "styles": [
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/4-L-IK8I5awHEzZZ1-6tP3Dpx8UUVAJ8GyC9sGaleKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjMw/LTE1MzA5MDk2Njkt/MzgzMy5qcGVn.jpeg",
+        "title": "My Sister's Daughter",
+        "year": 1995
+      },
+      "date_added": "2026-10-10T09:05:14-07:00",
+      "id": 47230,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/47230"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 10451,
+            "join": "",
+            "name": "Downtown Loop",
+            "resource_url": "https://api.discogs.com/artists/10451",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/10B1J8AeQZaBAyOszFsimeZZwq7maJzz_n1uIihept4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjI5/MS0xMjc1MzM0Nzg3/LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "33 ⅓ RPM",
+              "45 RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 172291,
+        "labels": [
+          {
+            "catno": "DISC 019",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 89436,
+            "name": "Luxury Service Records",
+            "resource_url": "https://api.discogs.com/labels/89436"
+          },
+          {
+            "catno": "disc 019",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 89436,
+            "name": "Luxury Service Records",
+            "resource_url": "https://api.discogs.com/labels/89436"
+          },
+          {
+            "catno": "019-LUXURY",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 89436,
+            "name": "Luxury Service Records",
+            "resource_url": "https://api.discogs.com/labels/89436"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/172291",
+        "styles": [
+          "Deep House",
+          "Tech House"
+        ],
+        "thumb": "https://i.discogs.com/bXBxDqtIsBIFd67M3lhvEP3oV1L0NSBxE7aVZdx5Wpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjI5/MS0xMjc1MzM0Nzg3/LmpwZWc.jpeg",
+        "title": "Do I Have All Your Love",
+        "year": 1997
+      },
+      "date_added": "2026-10-10T09:08:30-07:00",
+      "id": 172291,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/172291"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 1136,
             "join": "",
             "name": "Robert Hood",
@@ -25430,6 +25669,60 @@
       "id": 8997957,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/8997957"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 1141,
+            "join": "",
+            "name": "Model 500",
+            "resource_url": "https://api.discogs.com/artists/1141",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/mZ-_Y5nwXvRcE0FcOh1to_9oCac5ELsM9XAEA5AcL6Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE4/Mjk1LTE3MzQ4NTc3/MDgtMzg2MS5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Remastered"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 32618295,
+        "labels": [
+          {
+            "catno": "MLP-095",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 415,
+            "name": "Metroplex",
+            "resource_url": "https://api.discogs.com/labels/415"
+          }
+        ],
+        "master_id": 17503,
+        "master_url": "https://api.discogs.com/masters/17503",
+        "resource_url": "https://api.discogs.com/releases/32618295",
+        "styles": [
+          "Techno"
+        ],
+        "thumb": "https://i.discogs.com/nGpq8RZroscJSCXc7L7sAcvBAwkTGLG7qRDHNLZ3q28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE4/Mjk1LTE3MzQ4NTc3/MDgtMzg2MS5qcGVn.jpeg",
+        "title": "Deep Space",
+        "year": 2024
+      },
+      "date_added": "2026-10-10T07:04:49-07:00",
+      "id": 32618295,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/32618295"
     },
     {
       "basic_information": {
@@ -34434,6 +34727,60 @@
         "artists": [
           {
             "anv": "",
+            "id": 15240759,
+            "join": "",
+            "name": "That Garage Sound Vol. 2",
+            "resource_url": "https://api.discogs.com/artists/15240759",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/yEUnolLG4jdJ_OQn1bgAdpROeJ5iDkQYnhUfkTbVfxo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTAw/MTM4LTE3Mjk4NTIw/MzQtMzc1NC5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "10\"",
+              "Limited Edition"
+            ],
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Lathe Cut"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 32100138,
+        "labels": [
+          {
+            "catno": "ROSP002",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3328761,
+            "name": "Rain Or Shine",
+            "resource_url": "https://api.discogs.com/labels/3328761"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/32100138",
+        "styles": [
+          "Speed Garage"
+        ],
+        "thumb": "https://i.discogs.com/FsNEkH_WStlwwX2pOEb0J8M4szQHaXnq6sWKMq20TAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTAw/MTM4LTE3Mjk4NTIw/MzQtMzc1NC5qcGVn.jpeg",
+        "title": "Got The Speed / P*ssy Fax",
+        "year": 2024
+      },
+      "date_added": "2026-10-10T07:11:35-07:00",
+      "id": 32100138,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/32100138"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 9806,
             "join": "",
             "name": "DJ Abstract",
@@ -35275,61 +35622,6 @@
         "artists": [
           {
             "anv": "",
-            "id": 526268,
-            "join": "",
-            "name": "Spac Hand Luke",
-            "resource_url": "https://api.discogs.com/artists/526268",
-            "role": "",
-            "tracks": ""
-          }
-        ],
-        "cover_image": "https://i.discogs.com/yUEgWrODLklxKLiWEZdUf7MLida9sDIelbOkCwd7GQ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTE2/My0xMTQ5ODgwOTQx/LmpwZWc.jpeg",
-        "formats": [
-          {
-            "descriptions": [
-              "12\"",
-              "EP",
-              "33 ⅓ RPM"
-            ],
-            "name": "Vinyl",
-            "qty": "1"
-          }
-        ],
-        "genres": [
-          "Electronic"
-        ],
-        "id": 699163,
-        "labels": [
-          {
-            "catno": "CAT 177 EP",
-            "entity_type": "1",
-            "entity_type_name": "Label",
-            "id": 107,
-            "name": "Rephlex",
-            "resource_url": "https://api.discogs.com/labels/107"
-          }
-        ],
-        "master_id": 1517550,
-        "master_url": "https://api.discogs.com/masters/1517550",
-        "resource_url": "https://api.discogs.com/releases/699163",
-        "styles": [
-          "Breaks",
-          "Experimental"
-        ],
-        "thumb": "https://i.discogs.com/O2xdFpzP_yJnh7ZUBZdfgXXRfZ630UBl3qOid8Epjas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTE2/My0xMTQ5ODgwOTQx/LmpwZWc.jpeg",
-        "title": "Sidthug",
-        "year": 2006
-      },
-      "date_added": "2017-02-12T09:03:58-08:00",
-      "id": 699163,
-      "rating": 0,
-      "resource_url": "https://api.discogs.com/users/chris-towa/wants/699163"
-    },
-    {
-      "basic_information": {
-        "artists": [
-          {
-            "anv": "",
             "id": 5280,
             "join": "",
             "name": "Urban Tribe",
@@ -36011,6 +36303,60 @@
       "id": 5841952,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/5841952"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 2576696,
+            "join": "",
+            "name": "Frits Wentink",
+            "resource_url": "https://api.discogs.com/artists/2576696",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/X_COVvKowCXsj1PKetyYUqnpB9mrawOT72H98cQgPvk/rs:fit/g:sm/q:90/h:333/w:315/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg4/NTA2LTE3MTA4NDQ1/NDEtMTA0NS5wbmc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "33 ⅓ RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 30088506,
+        "labels": [
+          {
+            "catno": "Royal056",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 172551,
+            "name": "Royal Oak",
+            "resource_url": "https://api.discogs.com/labels/172551"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/30088506",
+        "styles": [
+          "Deep House",
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/1Jn8ZivrjMmx_6a-WXkhIid_bn84wJxPiYEbEHQPBso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg4/NTA2LTE3MTA4NDQ1/NDEtMTA0NS5wbmc.jpeg",
+        "title": "Spiritual Basslines",
+        "year": 2024
+      },
+      "date_added": "2026-10-10T07:07:35-07:00",
+      "id": 30088506,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/30088506"
     },
     {
       "basic_information": {
@@ -37437,6 +37783,69 @@
       "id": 35127545,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/35127545"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 4437085,
+            "join": "/",
+            "name": "Markus Sommer (2)",
+            "resource_url": "https://api.discogs.com/artists/4437085",
+            "role": "",
+            "tracks": ""
+          },
+          {
+            "anv": "",
+            "id": 4453899,
+            "join": "",
+            "name": "Phil Evans (9)",
+            "resource_url": "https://api.discogs.com/artists/4453899",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/uTVpEtvns1vZNKuv_qaqNWRtKimw7Oo9E--eHvZLqiQ/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzY5/NzYtMTQ0NTE2Njg4/Ny04Nzc2LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "10\"",
+              "EP"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 7076976,
+        "labels": [
+          {
+            "catno": "SR005.5",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 926557,
+            "name": "Sensual Records (2)",
+            "resource_url": "https://api.discogs.com/labels/926557"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/7076976",
+        "styles": [
+          "Breakbeat",
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/yaj6r6S33dIY6qxxEhLozPi1e9FfeA94RwhOh9ONLRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzY5/NzYtMTQ0NTE2Njg4/Ny04Nzc2LmpwZWc.jpeg",
+        "title": "Strange Advise EP",
+        "year": 2015
+      },
+      "date_added": "2026-10-10T08:56:05-07:00",
+      "id": 7076976,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/7076976"
     },
     {
       "basic_information": {
