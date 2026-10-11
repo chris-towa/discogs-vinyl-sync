@@ -1,11 +1,11 @@
 {
-  "next_page": 91,
+  "next_page": 101,
   "total_pages": 104,
   "seller": "clocke",
-  "last_scan_attempt": "2026-10-11T14:21:09.909053+00:00",
-  "saved_pages": 90,
-  "listing_count_estimate": 9000,
+  "last_scan_attempt": "2026-10-11T14:22:20.279833+00:00",
+  "saved_pages": 100,
+  "listing_count_estimate": 10000,
   "complete": false,
-  "last_run_pages": 30,
-  "stopped_reason": null
+  "last_run_pages": 10,
+  "stopped_reason": "HTTP 403 Forbidden"
 }
