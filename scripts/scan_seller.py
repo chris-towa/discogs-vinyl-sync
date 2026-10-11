@@ -32,8 +32,9 @@ def fetch(page):
                 return json.load(response)
         except urllib.error.HTTPError as exc:
             if exc.code == 403:
-                print(f"Discogs returned HTTP 403 at page {page}. Stop without retrying a denied request.")
-                return None
+                detail = exc.read(600).decode("utf-8", errors="replace").replace("\\n", " ")
+                print(f"Discogs HTTP 403 at page {page}; response={detail[:300]!r}; retry-after={exc.headers.get('Retry-After')!r}; rate-remaining={exc.headers.get('X-Discogs-Ratelimit-Remaining')!r}", flush=True)
+                return {"_scan_error": "HTTP 403 Forbidden"}
             if exc.code in (429, 500, 502, 503, 504):
                 wait = min(max(int(exc.headers.get("Retry-After", "0") or 0), 15 * (attempt + 1)), 180)
                 print(f"HTTP {exc.code} at page {page}, cooling down {wait}s", flush=True)
@@ -45,7 +46,7 @@ def fetch(page):
                 raise
             time.sleep(15 * (attempt + 1))
     print(f"Request failed repeatedly on page {page}; preserving earlier progress.")
-    return None
+    return {"_scan_error": "API retries exhausted"}
 
 
 def normalize(item):
@@ -72,8 +73,8 @@ def main():
         if pages_total is not None and page > int(pages_total):
             break
         data = fetch(page)
-        if data is None:
-            stopped_reason = "Discogs API access denied or throttled"
+        if data is None or (isinstance(data, dict) and "_scan_error" in data):
+            stopped_reason = data.get("_scan_error", "API request failed") if isinstance(data, dict) else "API request failed"
             break
         chunk = data.get("listings")
         if not isinstance(chunk, list):
