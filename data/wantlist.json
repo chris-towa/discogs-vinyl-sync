@@ -3625,6 +3625,61 @@
         "artists": [
           {
             "anv": "",
+            "id": 1500084,
+            "join": "",
+            "name": "James Blake",
+            "resource_url": "https://api.discogs.com/artists/1500084",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/jAUpeItWlPZuFphk0FXFgHT2Si82nWXpQagdJ1EtBk0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTMy/MzItMTMwMTQzNzA1/My5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "genres": [
+          "Electronic",
+          "Funk / Soul"
+        ],
+        "id": 2693232,
+        "labels": [
+          {
+            "catno": "ATLAS02LP",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 219390,
+            "name": "Atlas Recordings (2)",
+            "resource_url": "https://api.discogs.com/labels/219390"
+          }
+        ],
+        "master_id": 307676,
+        "master_url": "https://api.discogs.com/masters/307676",
+        "resource_url": "https://api.discogs.com/releases/2693232",
+        "styles": [
+          "Leftfield",
+          "Dubstep"
+        ],
+        "thumb": "https://i.discogs.com/wrwsPDlcxaf5OJdELhBBvkbEU3h2fPfPOxEiNpxnh0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTMy/MzItMTMwMTQzNzA1/My5qcGVn.jpeg",
+        "title": "James Blake",
+        "year": 2011
+      },
+      "date_added": "2026-10-11T10:23:09-07:00",
+      "id": 2693232,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/2693232"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 90989,
             "join": "",
             "name": "Arturo Garces",
@@ -33671,6 +33726,122 @@
         "artists": [
           {
             "anv": "",
+            "id": 1500084,
+            "join": "",
+            "name": "James Blake",
+            "resource_url": "https://api.discogs.com/artists/1500084",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/HYs4E2cWiNJWyeBNaABEpd9_YA6AT8aMWHbsvxjkrtg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjY4/NjAtMTU5MjY4MTQx/My04MzUxLmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "genres": [
+          "Electronic",
+          "Funk / Soul"
+        ],
+        "id": 8926860,
+        "labels": [
+          {
+            "catno": "00602547933331",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1610,
+            "name": "Polydor",
+            "resource_url": "https://api.discogs.com/labels/1610"
+          }
+        ],
+        "master_id": 999962,
+        "master_url": "https://api.discogs.com/masters/999962",
+        "resource_url": "https://api.discogs.com/releases/8926860",
+        "styles": [
+          "Leftfield",
+          "Dubstep",
+          "Soul"
+        ],
+        "thumb": "https://i.discogs.com/p2arnveLo8FHP1Jym6sC6f1m6sKCM6k4ukv9ELAubwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjY4/NjAtMTU5MjY4MTQx/My04MzUxLmpwZWc.jpeg",
+        "title": "The Colour In Anything",
+        "year": 2016
+      },
+      "date_added": "2026-10-11T10:30:33-07:00",
+      "id": 8926860,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/8926860"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 1500084,
+            "join": "",
+            "name": "James Blake",
+            "resource_url": "https://api.discogs.com/artists/1500084",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/BDiv-ePMHOmy1UiFQ-OL6mcp7iET6w0pn2Nyff0K4h8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/MzE5LTE1NTczMjMx/OTYtMTMwNi5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Limited Edition"
+            ],
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "Dark Green"
+          }
+        ],
+        "genres": [
+          "Electronic",
+          "Hip Hop",
+          "Funk / Soul",
+          "Pop"
+        ],
+        "id": 13602319,
+        "labels": [
+          {
+            "catno": "7744190",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1610,
+            "name": "Polydor",
+            "resource_url": "https://api.discogs.com/labels/1610"
+          }
+        ],
+        "master_id": 1487671,
+        "master_url": "https://api.discogs.com/masters/1487671",
+        "resource_url": "https://api.discogs.com/releases/13602319",
+        "styles": [
+          "Contemporary R&B",
+          "Soul",
+          "Leftfield"
+        ],
+        "thumb": "https://i.discogs.com/84U6ht8IH4UoYzDLeD6G5vCSXrvsdCq7VIp-E4srx1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/MzE5LTE1NTczMjMx/OTYtMTMwNi5qcGVn.jpeg",
+        "title": "Assume Form",
+        "year": 2019
+      },
+      "date_added": "2026-10-11T09:30:26-07:00",
+      "id": 13602319,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/13602319"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 194,
             "join": "",
             "name": "Various",
@@ -34505,6 +34676,63 @@
       "id": 9240,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/9240"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 1500084,
+            "join": "",
+            "name": "James Blake",
+            "resource_url": "https://api.discogs.com/artists/1500084",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/WrD9z3nnGI1bRBR7pKwa5QQx7nSi_7vRWICiRuXk5N8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTUy/MTQtMTYyMDQwNjc0/OC01MDkwLmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "33 ⅓ RPM",
+              "EP"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 2495214,
+        "labels": [
+          {
+            "catno": "RS1007",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 245,
+            "name": "R & S Records",
+            "resource_url": "https://api.discogs.com/labels/245"
+          }
+        ],
+        "master_id": 281773,
+        "master_url": "https://api.discogs.com/masters/281773",
+        "resource_url": "https://api.discogs.com/releases/2495214",
+        "styles": [
+          "Experimental",
+          "Ambient",
+          "Broken Beat",
+          "Dubstep"
+        ],
+        "thumb": "https://i.discogs.com/OWvn7T8CoGa8jaR3Z_0M8IV05x5lizJDIjWi2_dSuls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTUy/MTQtMTYyMDQwNjc0/OC01MDkwLmpwZWc.jpeg",
+        "title": "Klavierwerke EP",
+        "year": 2010
+      },
+      "date_added": "2026-10-11T09:35:22-07:00",
+      "id": 2495214,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/2495214"
     },
     {
       "basic_information": {
@@ -35733,6 +35961,68 @@
       "id": 250191,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/250191"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 1500084,
+            "join": "",
+            "name": "James Blake",
+            "resource_url": "https://api.discogs.com/artists/1500084",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/2tSXbUqwaARVK0V46NYq4of8EoX1--PaJwDaEIFfUK4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTE0/NjY3LTE2NDEyMTg2/NzItOTAxMC5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic",
+          "Pop"
+        ],
+        "id": 20514667,
+        "labels": [
+          {
+            "catno": "B0034212-01",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 38017,
+            "name": "Republic Records",
+            "resource_url": "https://api.discogs.com/labels/38017"
+          },
+          {
+            "catno": "B0034212-01",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1610,
+            "name": "Polydor",
+            "resource_url": "https://api.discogs.com/labels/1610"
+          }
+        ],
+        "master_id": 2329036,
+        "master_url": "https://api.discogs.com/masters/2329036",
+        "resource_url": "https://api.discogs.com/releases/20514667",
+        "styles": [
+          "Leftfield"
+        ],
+        "thumb": "https://i.discogs.com/CkAqYK2vLjVSbiskzXItTstGNnR5RGgaV3twBHJzQhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTE0/NjY3LTE2NDEyMTg2/NzItOTAxMC5qcGVn.jpeg",
+        "title": "Friends That Break Your Heart",
+        "year": 2021
+      },
+      "date_added": "2026-10-11T09:28:19-07:00",
+      "id": 20514667,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/20514667"
     },
     {
       "basic_information": {

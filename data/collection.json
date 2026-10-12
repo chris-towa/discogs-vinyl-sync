@@ -4365,6 +4365,62 @@
         "artists": [
           {
             "anv": "",
+            "id": 1500084,
+            "join": "",
+            "name": "James Blake",
+            "resource_url": "https://api.discogs.com/artists/1500084",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/RwVaV367_MJYJjDjQj9H0cGXgsOhbu_h2wsJG62Ali0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzU5/MDczLTE3NzM0MDg2/MzctNTIxNS5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Limited Edition"
+            ],
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "Translucent Black"
+          }
+        ],
+        "genres": [
+          "Electronic",
+          "Pop"
+        ],
+        "id": 36759073,
+        "labels": [
+          {
+            "catno": "198704868702",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 4481464,
+            "name": "Good Boy Records (6)",
+            "resource_url": "https://api.discogs.com/labels/4481464"
+          }
+        ],
+        "master_id": 4161256,
+        "master_url": "https://api.discogs.com/masters/4161256",
+        "resource_url": "https://api.discogs.com/releases/36759073",
+        "styles": [
+          "Ambient"
+        ],
+        "thumb": "https://i.discogs.com/km7douxOhe9DrpU3L7wX4VWtJS8K8oUCsoxSrpZyDNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzU5/MDczLTE3NzM0MDg2/MzctNTIxNS5qcGVn.jpeg",
+        "title": "Trying Times",
+        "year": 2026
+      },
+      "date_added": "2026-10-11T09:31:20-07:00",
+      "id": 36759073,
+      "instance_id": 2193158777,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 4808936,
             "join": "",
             "name": "Thomas Rooge",
