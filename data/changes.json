@@ -1,58 +1,17 @@
 {
-  "collection_added": [
-    {
-      "added": "2026-10-11T09:31:20-07:00",
-      "artist": "James Blake",
-      "label": "Good Boy Records (6)",
-      "release_id": 36759073,
-      "title": "Trying Times",
-      "year": 2026
-    }
-  ],
+  "collection_added": [],
   "collection_removed": [],
-  "generated_at": "2026-10-12T05:36:20.126876+00:00",
+  "generated_at": "2026-10-13T05:37:14.183249+00:00",
   "initial_sync": false,
   "username": "chris-towa",
   "wantlist_added": [
     {
-      "added": "2026-10-11T09:30:26-07:00",
-      "artist": "James Blake",
-      "label": "Polydor",
-      "release_id": 13602319,
-      "title": "Assume Form",
-      "year": 2019
-    },
-    {
-      "added": "2026-10-11T09:28:19-07:00",
-      "artist": "James Blake",
-      "label": "Republic Records, Polydor",
-      "release_id": 20514667,
-      "title": "Friends That Break Your Heart",
-      "year": 2021
-    },
-    {
-      "added": "2026-10-11T09:35:22-07:00",
-      "artist": "James Blake",
-      "label": "R & S Records",
-      "release_id": 2495214,
-      "title": "Klavierwerke EP",
+      "added": "2026-10-12T11:59:53-07:00",
+      "artist": "Christian Burkhardt, Einzelkind",
+      "label": "JAX",
+      "release_id": 2507125,
+      "title": "Revolver LP",
       "year": 2010
-    },
-    {
-      "added": "2026-10-11T10:23:09-07:00",
-      "artist": "James Blake",
-      "label": "Atlas Recordings (2)",
-      "release_id": 2693232,
-      "title": "James Blake",
-      "year": 2011
-    },
-    {
-      "added": "2026-10-11T10:30:33-07:00",
-      "artist": "James Blake",
-      "label": "Polydor",
-      "release_id": 8926860,
-      "title": "The Colour In Anything",
-      "year": 2016
     }
   ],
   "wantlist_removed": []

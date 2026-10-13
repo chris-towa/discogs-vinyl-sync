@@ -21219,6 +21219,69 @@
         "artists": [
           {
             "anv": "",
+            "id": 811028,
+            "join": "&",
+            "name": "Christian Burkhardt",
+            "resource_url": "https://api.discogs.com/artists/811028",
+            "role": "",
+            "tracks": ""
+          },
+          {
+            "anv": "",
+            "id": 398944,
+            "join": "",
+            "name": "Einzelkind",
+            "resource_url": "https://api.discogs.com/artists/398944",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/8bqat-EwyEYDMnxG7UvW99zZuupGZGCoiypXDDO93WA/rs:fit/g:sm/q:90/h:501/w:487/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDcx/MjUtMTY5MzI2ODky/MS01OTI4LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 2507125,
+        "labels": [
+          {
+            "catno": "JAX 001",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 214562,
+            "name": "JAX",
+            "resource_url": "https://api.discogs.com/labels/214562"
+          }
+        ],
+        "master_id": 283425,
+        "master_url": "https://api.discogs.com/masters/283425",
+        "resource_url": "https://api.discogs.com/releases/2507125",
+        "styles": [
+          "Minimal",
+          "Tech House"
+        ],
+        "thumb": "https://i.discogs.com/-IKZg66wh9YfGeTwUYdfOqVKj-suOwx5xE7KVIXxuPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDcx/MjUtMTY5MzI2ODky/MS01OTI4LmpwZWc.jpeg",
+        "title": "Revolver LP",
+        "year": 2010
+      },
+      "date_added": "2026-10-12T11:59:53-07:00",
+      "id": 2507125,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/2507125"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 126,
             "join": "",
             "name": "Kenny Dixon Jr.",
