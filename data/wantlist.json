@@ -8960,59 +8960,6 @@
       "basic_information": {
         "artists": [
           {
-            "anv": "",
-            "id": 6764399,
-            "join": "",
-            "name": "Gora & Eloy",
-            "resource_url": "https://api.discogs.com/artists/6764399",
-            "role": "",
-            "tracks": ""
-          }
-        ],
-        "cover_image": "https://i.discogs.com/7R6Cfw1j295aM8kfWPRXQNsjIA-qLMeuom9YUMM-Tcc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/MTk1LTE1ODM1Mjcy/NjEtNjczNi5qcGVn.jpeg",
-        "formats": [
-          {
-            "descriptions": [
-              "12\""
-            ],
-            "name": "Vinyl",
-            "qty": "1"
-          }
-        ],
-        "genres": [
-          "Electronic"
-        ],
-        "id": 14682195,
-        "labels": [
-          {
-            "catno": "CTX07",
-            "entity_type": "1",
-            "entity_type_name": "Label",
-            "id": 324413,
-            "name": "Chiwax",
-            "resource_url": "https://api.discogs.com/labels/324413"
-          }
-        ],
-        "master_id": 0,
-        "master_url": null,
-        "resource_url": "https://api.discogs.com/releases/14682195",
-        "styles": [
-          "House",
-          "Acid House"
-        ],
-        "thumb": "https://i.discogs.com/8hHbQ15XM0oekDIkzC_l8RQWbZagqz-YsS-xW0Db4Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/MTk1LTE1ODM1Mjcy/NjEtNjczNi5qcGVn.jpeg",
-        "title": "Future Is Never",
-        "year": 2020
-      },
-      "date_added": "2026-10-10T07:14:37-07:00",
-      "id": 14682195,
-      "rating": 0,
-      "resource_url": "https://api.discogs.com/users/chris-towa/wants/14682195"
-    },
-    {
-      "basic_information": {
-        "artists": [
-          {
             "anv": "Max",
             "id": 1482,
             "join": "",
@@ -16977,19 +16924,19 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1235514,
             "join": "/",
-            "name": "",
-            "resource_url": null,
+            "name": "DJ Tricks",
+            "resource_url": "https://api.discogs.com/artists/1235514",
             "role": "",
             "tracks": ""
           },
           {
             "anv": "",
-            "id": null,
+            "id": 6182918,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "B. Patrick",
+            "resource_url": "https://api.discogs.com/artists/6182918",
             "role": "",
             "tracks": ""
           }
@@ -17042,10 +16989,10 @@
         "artists": [
           {
             "anv": "English House",
-            "id": null,
+            "id": 1246279,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "DJ Tricks - English House",
+            "resource_url": "https://api.discogs.com/artists/1246279",
             "role": "",
             "tracks": ""
           }
@@ -17101,10 +17048,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1246279,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "DJ Tricks - English House",
+            "resource_url": "https://api.discogs.com/artists/1246279",
             "role": "",
             "tracks": ""
           }
@@ -17155,10 +17102,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 704038,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Truth (11)",
+            "resource_url": "https://api.discogs.com/artists/704038",
             "role": "",
             "tracks": ""
           }
@@ -17210,10 +17157,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1164218,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Maxmillion Dunbar",
+            "resource_url": "https://api.discogs.com/artists/1164218",
             "role": "",
             "tracks": ""
           }
@@ -17265,10 +17212,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 194,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Various",
+            "resource_url": "https://api.discogs.com/artists/194",
             "role": "",
             "tracks": ""
           }
@@ -17320,10 +17267,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 10193,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Norm Talley",
+            "resource_url": "https://api.discogs.com/artists/10193",
             "role": "",
             "tracks": ""
           }
@@ -17374,10 +17321,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 2221793,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Fontaine (2)",
+            "resource_url": "https://api.discogs.com/artists/2221793",
             "role": "",
             "tracks": ""
           }
@@ -17430,10 +17377,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1973967,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "The Gathering (5)",
+            "resource_url": "https://api.discogs.com/artists/1973967",
             "role": "",
             "tracks": ""
           }
@@ -17483,19 +17430,19 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 662,
             "join": "Featuring",
-            "name": "",
-            "resource_url": null,
+            "name": "Germ",
+            "resource_url": "https://api.discogs.com/artists/662",
             "role": "",
             "tracks": ""
           },
           {
             "anv": "Hillary Jeffery",
-            "id": null,
+            "id": 160680,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Hilary Jeffery",
+            "resource_url": "https://api.discogs.com/artists/160680",
             "role": "",
             "tracks": ""
           }
@@ -17544,10 +17491,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 13767,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Mr. YT",
+            "resource_url": "https://api.discogs.com/artists/13767",
             "role": "",
             "tracks": ""
           }
@@ -17598,19 +17545,19 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 214669,
             "join": "Featuring",
-            "name": "",
-            "resource_url": null,
+            "name": "DJ T.",
+            "resource_url": "https://api.discogs.com/artists/214669",
             "role": "",
             "tracks": ""
           },
           {
             "anv": "",
-            "id": null,
+            "id": 1387602,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Cari Golden",
+            "resource_url": "https://api.discogs.com/artists/1387602",
             "role": "",
             "tracks": ""
           }
@@ -17660,10 +17607,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 12927,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Ghost",
+            "resource_url": "https://api.discogs.com/artists/12927",
             "role": "",
             "tracks": ""
           }
@@ -17714,10 +17661,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 12927,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Ghost",
+            "resource_url": "https://api.discogs.com/artists/12927",
             "role": "",
             "tracks": ""
           }
@@ -17767,10 +17714,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 12927,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Ghost",
+            "resource_url": "https://api.discogs.com/artists/12927",
             "role": "",
             "tracks": ""
           }
@@ -17819,19 +17766,19 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 2446085,
             "join": "/",
-            "name": "",
-            "resource_url": null,
+            "name": "Ateq",
+            "resource_url": "https://api.discogs.com/artists/2446085",
             "role": "",
             "tracks": ""
           },
           {
             "anv": "",
-            "id": null,
+            "id": 129830,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Edward",
+            "resource_url": "https://api.discogs.com/artists/129830",
             "role": "",
             "tracks": ""
           }
@@ -17883,10 +17830,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1398569,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Kettenkarussell",
+            "resource_url": "https://api.discogs.com/artists/1398569",
             "role": "",
             "tracks": ""
           }
@@ -17937,10 +17884,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 129830,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Edward",
+            "resource_url": "https://api.discogs.com/artists/129830",
             "role": "",
             "tracks": ""
           }
@@ -17993,10 +17940,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 129830,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Edward",
+            "resource_url": "https://api.discogs.com/artists/129830",
             "role": "",
             "tracks": ""
           }
@@ -18051,10 +17998,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 4629210,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Sweely",
+            "resource_url": "https://api.discogs.com/artists/4629210",
             "role": "",
             "tracks": ""
           }
@@ -18108,10 +18055,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 3108074,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Golden Teacher",
+            "resource_url": "https://api.discogs.com/artists/3108074",
             "role": "",
             "tracks": ""
           }
@@ -18167,10 +18114,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1098715,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "DJ Nature",
+            "resource_url": "https://api.discogs.com/artists/1098715",
             "role": "",
             "tracks": ""
           }
@@ -18219,10 +18166,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 4808936,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Thomas Rooge",
+            "resource_url": "https://api.discogs.com/artists/4808936",
             "role": "",
             "tracks": ""
           }
@@ -18274,10 +18221,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 4457069,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Pastaga",
+            "resource_url": "https://api.discogs.com/artists/4457069",
             "role": "",
             "tracks": ""
           }
@@ -18330,10 +18277,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 593423,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Bodin",
+            "resource_url": "https://api.discogs.com/artists/593423",
             "role": "",
             "tracks": ""
           }
@@ -18384,19 +18331,19 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 21151,
             "join": "&",
-            "name": "",
-            "resource_url": null,
+            "name": "DJ Premier",
+            "resource_url": "https://api.discogs.com/artists/21151",
             "role": "",
             "tracks": ""
           },
           {
             "anv": "",
-            "id": null,
+            "id": 21291,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Bumpy Knuckles",
+            "resource_url": "https://api.discogs.com/artists/21291",
             "role": "",
             "tracks": ""
           }
@@ -18446,10 +18393,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1202712,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Midland",
+            "resource_url": "https://api.discogs.com/artists/1202712",
             "role": "",
             "tracks": ""
           }
@@ -18499,10 +18446,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1202712,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Midland",
+            "resource_url": "https://api.discogs.com/artists/1202712",
             "role": "",
             "tracks": ""
           }
@@ -18553,10 +18500,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 19395,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Groove Chronicles",
+            "resource_url": "https://api.discogs.com/artists/19395",
             "role": "",
             "tracks": ""
           }
@@ -18607,10 +18554,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 19395,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Groove Chronicles",
+            "resource_url": "https://api.discogs.com/artists/19395",
             "role": "",
             "tracks": ""
           }
@@ -18661,10 +18608,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 28062,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "JNX",
+            "resource_url": "https://api.discogs.com/artists/28062",
             "role": "",
             "tracks": ""
           }
@@ -18714,19 +18661,19 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 245875,
             "join": "&",
-            "name": "",
-            "resource_url": null,
+            "name": "The Inmate",
+            "resource_url": "https://api.discogs.com/artists/245875",
             "role": "",
             "tracks": ""
           },
           {
             "anv": "",
-            "id": null,
+            "id": 6642395,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "The General (26)",
+            "resource_url": "https://api.discogs.com/artists/6642395",
             "role": "",
             "tracks": ""
           }
@@ -18782,19 +18729,19 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 51474,
             "join": ",",
-            "name": "",
-            "resource_url": null,
+            "name": "Stopouts",
+            "resource_url": "https://api.discogs.com/artists/51474",
             "role": "",
             "tracks": ""
           },
           {
             "anv": "",
-            "id": null,
+            "id": 408329,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Robin Ball",
+            "resource_url": "https://api.discogs.com/artists/408329",
             "role": "",
             "tracks": ""
           }
@@ -18846,10 +18793,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 88231,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Marius Acke",
+            "resource_url": "https://api.discogs.com/artists/88231",
             "role": "",
             "tracks": ""
           }
@@ -18904,10 +18851,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 3104246,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Cédric Dekowski",
+            "resource_url": "https://api.discogs.com/artists/3104246",
             "role": "",
             "tracks": ""
           }
@@ -18960,10 +18907,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 149,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Theo Parrish",
+            "resource_url": "https://api.discogs.com/artists/149",
             "role": "",
             "tracks": ""
           }
@@ -19014,10 +18961,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 71266,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Agent X",
+            "resource_url": "https://api.discogs.com/artists/71266",
             "role": "",
             "tracks": ""
           }
@@ -19068,10 +19015,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 71266,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Agent X",
+            "resource_url": "https://api.discogs.com/artists/71266",
             "role": "",
             "tracks": ""
           }
@@ -19122,10 +19069,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1500084,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "James Blake",
+            "resource_url": "https://api.discogs.com/artists/1500084",
             "role": "",
             "tracks": ""
           }
@@ -19180,10 +19127,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1404713,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Joe (43)",
+            "resource_url": "https://api.discogs.com/artists/1404713",
             "role": "",
             "tracks": ""
           }
@@ -19234,10 +19181,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1468737,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Pearson Sound",
+            "resource_url": "https://api.discogs.com/artists/1468737",
             "role": "",
             "tracks": ""
           }
@@ -19289,10 +19236,10 @@
         "artists": [
           {
             "anv": "Dolci & Cubana",
-            "id": null,
+            "id": 53338,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Dolce & Cubana",
+            "resource_url": "https://api.discogs.com/artists/53338",
             "role": "",
             "tracks": ""
           }
@@ -19343,10 +19290,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 194,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Various",
+            "resource_url": "https://api.discogs.com/artists/194",
             "role": "",
             "tracks": ""
           }
@@ -19396,10 +19343,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 194,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Various",
+            "resource_url": "https://api.discogs.com/artists/194",
             "role": "",
             "tracks": ""
           }
@@ -19452,10 +19399,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 2157542,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "S3A",
+            "resource_url": "https://api.discogs.com/artists/2157542",
             "role": "",
             "tracks": ""
           }
@@ -19508,10 +19455,10 @@
         "artists": [
           {
             "anv": "The Holy Ghost Inc.",
-            "id": null,
+            "id": 79911,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Holy Ghost Inc.",
+            "resource_url": "https://api.discogs.com/artists/79911",
             "role": "",
             "tracks": ""
           }
@@ -19563,10 +19510,10 @@
         "artists": [
           {
             "anv": "The Holy Ghost",
-            "id": null,
+            "id": 79911,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Holy Ghost Inc.",
+            "resource_url": "https://api.discogs.com/artists/79911",
             "role": "",
             "tracks": ""
           }
@@ -19619,10 +19566,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 2324859,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "DJ Haus",
+            "resource_url": "https://api.discogs.com/artists/2324859",
             "role": "",
             "tracks": ""
           }
@@ -19672,10 +19619,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 735330,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Photonz",
+            "resource_url": "https://api.discogs.com/artists/735330",
             "role": "",
             "tracks": ""
           }
@@ -19726,10 +19673,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1564482,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Joy Orbison",
+            "resource_url": "https://api.discogs.com/artists/1564482",
             "role": "",
             "tracks": ""
           }
@@ -19780,10 +19727,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 21475,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Thompson & Lenoir",
+            "resource_url": "https://api.discogs.com/artists/21475",
             "role": "",
             "tracks": ""
           }
@@ -19834,10 +19781,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 21475,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Thompson & Lenoir",
+            "resource_url": "https://api.discogs.com/artists/21475",
             "role": "",
             "tracks": ""
           }
@@ -19888,10 +19835,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 21475,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Thompson & Lenoir",
+            "resource_url": "https://api.discogs.com/artists/21475",
             "role": "",
             "tracks": ""
           }
@@ -19941,10 +19888,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 21475,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Thompson & Lenoir",
+            "resource_url": "https://api.discogs.com/artists/21475",
             "role": "",
             "tracks": ""
           }
@@ -19995,10 +19942,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 21475,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Thompson & Lenoir",
+            "resource_url": "https://api.discogs.com/artists/21475",
             "role": "",
             "tracks": ""
           }
@@ -20047,10 +19994,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 11631,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Chicago Trackwerk",
+            "resource_url": "https://api.discogs.com/artists/11631",
             "role": "",
             "tracks": ""
           }
@@ -20102,10 +20049,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1098,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Rick Wade",
+            "resource_url": "https://api.discogs.com/artists/1098",
             "role": "",
             "tracks": ""
           }
@@ -20157,10 +20104,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1531,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "LoSoul",
+            "resource_url": "https://api.discogs.com/artists/1531",
             "role": "",
             "tracks": ""
           }
@@ -20212,10 +20159,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 235889,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "DJ Rashad",
+            "resource_url": "https://api.discogs.com/artists/235889",
             "role": "",
             "tracks": ""
           }
@@ -20266,10 +20213,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 3485,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "The Innocent",
+            "resource_url": "https://api.discogs.com/artists/3485",
             "role": "",
             "tracks": ""
           }
@@ -20321,10 +20268,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1000,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Dave Clarke",
+            "resource_url": "https://api.discogs.com/artists/1000",
             "role": "",
             "tracks": ""
           }
@@ -20378,10 +20325,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 2569827,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "NY Stomp",
+            "resource_url": "https://api.discogs.com/artists/2569827",
             "role": "",
             "tracks": ""
           }
@@ -20433,10 +20380,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 3818594,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Riccardo (24)",
+            "resource_url": "https://api.discogs.com/artists/3818594",
             "role": "",
             "tracks": ""
           }
@@ -20487,10 +20434,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 4437085,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Markus Sommer (2)",
+            "resource_url": "https://api.discogs.com/artists/4437085",
             "role": "",
             "tracks": ""
           }
@@ -20543,10 +20490,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 73907,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "3-Play",
+            "resource_url": "https://api.discogs.com/artists/73907",
             "role": "",
             "tracks": ""
           }
@@ -20599,10 +20546,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 194,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Various",
+            "resource_url": "https://api.discogs.com/artists/194",
             "role": "",
             "tracks": ""
           }
@@ -20654,10 +20601,10 @@
         "artists": [
           {
             "anv": "Eddie Fingers Music",
-            "id": null,
+            "id": 226510,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Eddie Fingers",
+            "resource_url": "https://api.discogs.com/artists/226510",
             "role": "",
             "tracks": ""
           }
@@ -20709,10 +20656,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 194,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Various",
+            "resource_url": "https://api.discogs.com/artists/194",
             "role": "",
             "tracks": ""
           }
@@ -20774,10 +20721,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 119,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Terrence Parker",
+            "resource_url": "https://api.discogs.com/artists/119",
             "role": "",
             "tracks": ""
           }
@@ -20828,10 +20775,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1462,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Ectomorph",
+            "resource_url": "https://api.discogs.com/artists/1462",
             "role": "",
             "tracks": ""
           }
@@ -20882,10 +20829,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 6272,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Foremost Poets",
+            "resource_url": "https://api.discogs.com/artists/6272",
             "role": "",
             "tracks": ""
           }
@@ -20937,10 +20884,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 470196,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "José Padilla",
+            "resource_url": "https://api.discogs.com/artists/470196",
             "role": "",
             "tracks": ""
           }
@@ -20992,10 +20939,10 @@
         "artists": [
           {
             "anv": "Riuichi Sakamoto",
-            "id": null,
+            "id": 5087,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Ryuichi Sakamoto",
+            "resource_url": "https://api.discogs.com/artists/5087",
             "role": "",
             "tracks": ""
           }
@@ -21054,10 +21001,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 6946,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Antonelli Electr.",
+            "resource_url": "https://api.discogs.com/artists/6946",
             "role": "",
             "tracks": ""
           }
@@ -21109,10 +21056,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1813920,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "ItaloJohnson",
+            "resource_url": "https://api.discogs.com/artists/1813920",
             "role": "",
             "tracks": ""
           }
@@ -21162,10 +21109,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 3409508,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Seven Davis Jr.",
+            "resource_url": "https://api.discogs.com/artists/3409508",
             "role": "",
             "tracks": ""
           }
@@ -21219,19 +21166,19 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 811028,
             "join": "&",
-            "name": "",
-            "resource_url": null,
+            "name": "Christian Burkhardt",
+            "resource_url": "https://api.discogs.com/artists/811028",
             "role": "",
             "tracks": ""
           },
           {
             "anv": "",
-            "id": null,
+            "id": 398944,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Einzelkind",
+            "resource_url": "https://api.discogs.com/artists/398944",
             "role": "",
             "tracks": ""
           }
@@ -21282,10 +21229,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 126,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Kenny Dixon Jr.",
+            "resource_url": "https://api.discogs.com/artists/126",
             "role": "",
             "tracks": ""
           }
@@ -21336,10 +21283,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 263,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Brothers' Vibe",
+            "resource_url": "https://api.discogs.com/artists/263",
             "role": "",
             "tracks": ""
           }
@@ -21388,10 +21335,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 9358021,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Jinger",
+            "resource_url": "https://api.discogs.com/artists/9358021",
             "role": "",
             "tracks": ""
           }
@@ -21445,10 +21392,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 6735514,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Alec Falconer",
+            "resource_url": "https://api.discogs.com/artists/6735514",
             "role": "",
             "tracks": ""
           }
@@ -21500,10 +21447,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 19853,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Splash",
+            "resource_url": "https://api.discogs.com/artists/19853",
             "role": "",
             "tracks": ""
           }
@@ -21553,10 +21500,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 194,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Various",
+            "resource_url": "https://api.discogs.com/artists/194",
             "role": "",
             "tracks": ""
           }
@@ -21609,10 +21556,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 194,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Various",
+            "resource_url": "https://api.discogs.com/artists/194",
             "role": "",
             "tracks": ""
           }
@@ -21665,10 +21612,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 13654,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Cabanne",
+            "resource_url": "https://api.discogs.com/artists/13654",
             "role": "",
             "tracks": ""
           }
@@ -21718,10 +21665,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1095,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Andrés",
+            "resource_url": "https://api.discogs.com/artists/1095",
             "role": "",
             "tracks": ""
           }
@@ -21771,10 +21718,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1095,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Andrés",
+            "resource_url": "https://api.discogs.com/artists/1095",
             "role": "",
             "tracks": ""
           }
@@ -21825,10 +21772,10 @@
         "artists": [
           {
             "anv": "Moody",
-            "id": null,
+            "id": 1094,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Moodymann",
+            "resource_url": "https://api.discogs.com/artists/1094",
             "role": "",
             "tracks": ""
           }
@@ -21881,10 +21828,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 4590,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Roberto Rodriguez",
+            "resource_url": "https://api.discogs.com/artists/4590",
             "role": "",
             "tracks": ""
           }
@@ -21934,19 +21881,19 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 4493,
             "join": "Featuring",
-            "name": "",
-            "resource_url": null,
+            "name": "Freestyle Man",
+            "resource_url": "https://api.discogs.com/artists/4493",
             "role": "",
             "tracks": ""
           },
           {
             "anv": "",
-            "id": null,
+            "id": 31770,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "George Spruce",
+            "resource_url": "https://api.discogs.com/artists/31770",
             "role": "",
             "tracks": ""
           }
@@ -21998,10 +21945,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 25161,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Trankilou",
+            "resource_url": "https://api.discogs.com/artists/25161",
             "role": "",
             "tracks": ""
           }
@@ -22055,19 +22002,19 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 81,
             "join": "&",
-            "name": "",
-            "resource_url": null,
+            "name": "Pépé Bradock",
+            "resource_url": "https://api.discogs.com/artists/81",
             "role": "",
             "tracks": ""
           },
           {
             "anv": "",
-            "id": null,
+            "id": 524153,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "The Grand Brûlé's Choir",
+            "resource_url": "https://api.discogs.com/artists/524153",
             "role": "",
             "tracks": ""
           }
@@ -22126,10 +22073,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 27856,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Huff & Herb",
+            "resource_url": "https://api.discogs.com/artists/27856",
             "role": "",
             "tracks": ""
           }
@@ -22180,10 +22127,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 10190,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Anthony Shakir",
+            "resource_url": "https://api.discogs.com/artists/10190",
             "role": "",
             "tracks": ""
           }
@@ -22236,10 +22183,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 10190,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Anthony Shakir",
+            "resource_url": "https://api.discogs.com/artists/10190",
             "role": "",
             "tracks": ""
           }
@@ -22290,10 +22237,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 3179261,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "FJAAK",
+            "resource_url": "https://api.discogs.com/artists/3179261",
             "role": "",
             "tracks": ""
           }
@@ -22344,10 +22291,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 3859663,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Phran",
+            "resource_url": "https://api.discogs.com/artists/3859663",
             "role": "",
             "tracks": ""
           }
@@ -22397,10 +22344,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 355,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Unknown Artist",
+            "resource_url": "https://api.discogs.com/artists/355",
             "role": "",
             "tracks": ""
           }
@@ -22451,10 +22398,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 6716,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Reese & Santonio",
+            "resource_url": "https://api.discogs.com/artists/6716",
             "role": "",
             "tracks": ""
           }
@@ -22505,10 +22452,10 @@
         "artists": [
           {
             "anv": "",
-            "id": null,
+            "id": 1552,
             "join": "",
-            "name": "",
-            "resource_url": null,
+            "name": "Chez Damier",
+            "resource_url": "https://api.discogs.com/artists/1552",
             "role": "",
             "tracks": ""
           }

@@ -2170,6 +2170,59 @@
         "artists": [
           {
             "anv": "",
+            "id": 6764399,
+            "join": "",
+            "name": "Gora & Eloy",
+            "resource_url": "https://api.discogs.com/artists/6764399",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/7R6Cfw1j295aM8kfWPRXQNsjIA-qLMeuom9YUMM-Tcc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/MTk1LTE1ODM1Mjcy/NjEtNjczNi5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\""
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 14682195,
+        "labels": [
+          {
+            "catno": "CTX07",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 324413,
+            "name": "Chiwax",
+            "resource_url": "https://api.discogs.com/labels/324413"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/14682195",
+        "styles": [
+          "House",
+          "Acid House"
+        ],
+        "thumb": "https://i.discogs.com/8hHbQ15XM0oekDIkzC_l8RQWbZagqz-YsS-xW0Db4Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/MTk1LTE1ODM1Mjcy/NjEtNjczNi5qcGVn.jpeg",
+        "title": "Future Is Never",
+        "year": 2020
+      },
+      "date_added": "2026-10-14T10:16:00-07:00",
+      "id": 14682195,
+      "instance_id": 2194149321,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 194,
             "join": "",
             "name": "Various",
@@ -13410,6 +13463,61 @@
       "date_added": "2026-09-17T12:48:50-07:00",
       "id": 100785,
       "instance_id": 2185250507,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 31,
+            "join": "",
+            "name": "Swag",
+            "resource_url": "https://api.discogs.com/artists/31",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/3lwHEgyUvNe_ue-JMcb1HCa432o1O4ijX_-M91SaP1Y/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ4/NDItMTM5Nzc1NTA0/Ni0zMTI5LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "Limited Edition",
+              "White Label"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 1174842,
+        "labels": [
+          {
+            "catno": "Version 13",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3974,
+            "name": "Version",
+            "resource_url": "https://api.discogs.com/labels/3974"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/1174842",
+        "styles": [
+          "House",
+          "Acid House"
+        ],
+        "thumb": "https://i.discogs.com/S0jGDY_kN5jWkSVSQqKvVXwlY_8fVoy_JdwztWaLX08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ4/NDItMTM5Nzc1NTA0/Ni0zMTI5LmpwZWc.jpeg",
+        "title": "Everything I Know I Learnt On Acid",
+        "year": 2007
+      },
+      "date_added": "2026-10-14T10:16:03-07:00",
+      "id": 1174842,
+      "instance_id": 2194149339,
       "rating": 0
     },
     {
