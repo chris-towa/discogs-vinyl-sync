@@ -1,35 +1,9 @@
 {
-  "collection_added": [
-    {
-      "added": "2026-10-14T10:16:00-07:00",
-      "artist": "Gora & Eloy",
-      "label": "Chiwax",
-      "release_id": 14682195,
-      "title": "Future Is Never",
-      "year": 2020
-    },
-    {
-      "added": "2026-10-14T10:16:03-07:00",
-      "artist": "Swag",
-      "label": "Version",
-      "release_id": 1174842,
-      "title": "Everything I Know I Learnt On Acid",
-      "year": 2007
-    }
-  ],
+  "collection_added": [],
   "collection_removed": [],
-  "generated_at": "2026-10-15T05:48:02.830907+00:00",
+  "generated_at": "2026-10-16T05:47:24.555213+00:00",
   "initial_sync": false,
   "username": "chris-towa",
   "wantlist_added": [],
-  "wantlist_removed": [
-    {
-      "added": "2026-10-10T07:14:37-07:00",
-      "artist": "Gora & Eloy",
-      "label": "Chiwax",
-      "release_id": 14682195,
-      "title": "Future Is Never",
-      "year": 2020
-    }
-  ]
+  "wantlist_removed": []
 }
