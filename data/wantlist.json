@@ -21556,62 +21556,6 @@
         "artists": [
           {
             "anv": "",
-            "id": 194,
-            "join": "",
-            "name": "Various",
-            "resource_url": "https://api.discogs.com/artists/194",
-            "role": "",
-            "tracks": ""
-          }
-        ],
-        "cover_image": "https://i.discogs.com/LOlwNvj8ILMVJAS_A3ZL_AbuOm4cKpzfwELV_kEh9XI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTY1/NjQxLTE3ODg4NzU3/NTItOTY1NS5qcGVn.jpeg",
-        "formats": [
-          {
-            "descriptions": [
-              "12\"",
-              "33 ⅓ RPM",
-              "Compilation",
-              "Stereo"
-            ],
-            "name": "Vinyl",
-            "qty": "1"
-          }
-        ],
-        "genres": [
-          "Electronic"
-        ],
-        "id": 27565641,
-        "labels": [
-          {
-            "catno": "JUUZ003",
-            "entity_type": "1",
-            "entity_type_name": "Label",
-            "id": 2299792,
-            "name": "Juuz Records",
-            "resource_url": "https://api.discogs.com/labels/2299792"
-          }
-        ],
-        "master_id": 0,
-        "master_url": null,
-        "resource_url": "https://api.discogs.com/releases/27565641",
-        "styles": [
-          "Minimal",
-          "Microhouse"
-        ],
-        "thumb": "https://i.discogs.com/_6oc51W1s-wTt2lwOXmgZWvBVMO_vn-GCcIsVbcxWU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTY1/NjQxLTE3ODg4NzU3/NTItOTY1NS5qcGVn.jpeg",
-        "title": "JUUZ003",
-        "year": 2023
-      },
-      "date_added": "2026-08-13T13:20:38-07:00",
-      "id": 27565641,
-      "rating": 0,
-      "resource_url": "https://api.discogs.com/users/chris-towa/wants/27565641"
-    },
-    {
-      "basic_information": {
-        "artists": [
-          {
-            "anv": "",
             "id": 13654,
             "join": "",
             "name": "Cabanne",
@@ -32873,6 +32817,61 @@
       "id": 17391,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/17391"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 30256,
+            "join": "",
+            "name": "The Timewriter",
+            "resource_url": "https://api.discogs.com/artists/30256",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/-XqNsHkUAdN8hdoVUGDTobcWWLnO9OavW5BKT6vSDeE/rs:fit/g:sm/q:90/h:500/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzg0/My0xMTc2MDQ5MjYw/LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 573843,
+        "labels": [
+          {
+            "catno": "PLAC039-3",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 244,
+            "name": "Plastic City",
+            "resource_url": "https://api.discogs.com/labels/244"
+          }
+        ],
+        "master_id": 141610,
+        "master_url": "https://api.discogs.com/masters/141610",
+        "resource_url": "https://api.discogs.com/releases/573843",
+        "styles": [
+          "House",
+          "Deep House",
+          "Tech House"
+        ],
+        "thumb": "https://i.discogs.com/-ngLbfGoBjX1hbJcyWyyP-sKET9-rPmBDUtpFRpjAng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzg0/My0xMTc2MDQ5MjYw/LmpwZWc.jpeg",
+        "title": "Paintbox",
+        "year": 2005
+      },
+      "date_added": "2026-10-16T01:02:20-07:00",
+      "id": 573843,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/573843"
     },
     {
       "basic_information": {
