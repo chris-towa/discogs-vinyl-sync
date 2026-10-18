@@ -12963,6 +12963,61 @@
         "artists": [
           {
             "anv": "",
+            "id": 12841,
+            "join": "",
+            "name": "Josh Brent",
+            "resource_url": "https://api.discogs.com/artists/12841",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/ZVwjqAglZc9MZqeF85HVjLboUEtuk_AZ8ZscMwwsotI/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDkz/MzYtMTQwNzE0NTU2/My03NDk4LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "Repress"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 5949336,
+        "labels": [
+          {
+            "catno": "TNS010",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 332468,
+            "name": "The Nothing Special",
+            "resource_url": "https://api.discogs.com/labels/332468"
+          }
+        ],
+        "master_id": 717028,
+        "master_url": "https://api.discogs.com/masters/717028",
+        "resource_url": "https://api.discogs.com/releases/5949336",
+        "styles": [
+          "Breakbeat",
+          "UK Garage",
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/fVw52THjJeupNwMCwpXF7zhf7j3syat0ysWWf3HB_A4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDkz/MzYtMTQwNzE0NTU2/My03NDk4LmpwZWc.jpeg",
+        "title": "213 EP",
+        "year": 2014
+      },
+      "date_added": "2026-10-17T12:14:51-07:00",
+      "id": 5949336,
+      "instance_id": 2195161144,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 88231,
             "join": "",
             "name": "Marius Acke",

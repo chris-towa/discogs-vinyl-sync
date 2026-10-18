@@ -1,27 +1,18 @@
 {
-  "collection_added": [],
-  "collection_removed": [],
-  "generated_at": "2026-10-17T05:45:15.819223+00:00",
-  "initial_sync": false,
-  "username": "chris-towa",
-  "wantlist_added": [
+  "collection_added": [
     {
-      "added": "2026-10-16T01:02:20-07:00",
-      "artist": "The Timewriter",
-      "label": "Plastic City",
-      "release_id": 573843,
-      "title": "Paintbox",
-      "year": 2005
+      "added": "2026-10-17T12:14:51-07:00",
+      "artist": "Josh Brent",
+      "label": "The Nothing Special",
+      "release_id": 5949336,
+      "title": "213 EP",
+      "year": 2014
     }
   ],
-  "wantlist_removed": [
-    {
-      "added": "2026-08-13T13:20:38-07:00",
-      "artist": "Various",
-      "label": "Juuz Records",
-      "release_id": 27565641,
-      "title": "JUUZ003",
-      "year": 2023
-    }
-  ]
+  "collection_removed": [],
+  "generated_at": "2026-10-18T05:45:02.496102+00:00",
+  "initial_sync": false,
+  "username": "chris-towa",
+  "wantlist_added": [],
+  "wantlist_removed": []
 }
