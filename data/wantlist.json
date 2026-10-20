@@ -17998,63 +17998,6 @@
         "artists": [
           {
             "anv": "",
-            "id": 4629210,
-            "join": "",
-            "name": "Sweely",
-            "resource_url": "https://api.discogs.com/artists/4629210",
-            "role": "",
-            "tracks": ""
-          }
-        ],
-        "cover_image": "https://i.discogs.com/Dxt3AlSzup0H4BfKp2pXJr9JICj-kGbLSf-k-I-Y_O0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQy/ODkwLTE3MDg3Mzgy/ODQtNDkyNC5wbmc.jpeg",
-        "formats": [
-          {
-            "descriptions": [
-              "12\"",
-              "33 ⅓ RPM"
-            ],
-            "name": "Vinyl",
-            "qty": "1"
-          }
-        ],
-        "genres": [
-          "Electronic"
-        ],
-        "id": 26142890,
-        "labels": [
-          {
-            "catno": "GS002",
-            "entity_type": "1",
-            "entity_type_name": "Label",
-            "id": 2618122,
-            "name": "Global Swing",
-            "resource_url": "https://api.discogs.com/labels/2618122"
-          }
-        ],
-        "master_id": 2984384,
-        "master_url": "https://api.discogs.com/masters/2984384",
-        "resource_url": "https://api.discogs.com/releases/26142890",
-        "styles": [
-          "House",
-          "Garage House",
-          "Deep House",
-          "Tech House",
-          "Freestyle"
-        ],
-        "thumb": "https://i.discogs.com/oXL0PX46kM4FE9f4RJbmmy3nlm0VpqEAae7oBDR7vDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQy/ODkwLTE3MDg3Mzgy/ODQtNDkyNC5wbmc.jpeg",
-        "title": "Bring It On",
-        "year": 2023
-      },
-      "date_added": "2025-01-14T08:52:05-08:00",
-      "id": 26142890,
-      "rating": 0,
-      "resource_url": "https://api.discogs.com/users/chris-towa/wants/26142890"
-    },
-    {
-      "basic_information": {
-        "artists": [
-          {
-            "anv": "",
             "id": 3108074,
             "join": "",
             "name": "Golden Teacher",
@@ -38088,69 +38031,6 @@
         "artists": [
           {
             "anv": "",
-            "id": 4437085,
-            "join": "/",
-            "name": "Markus Sommer (2)",
-            "resource_url": "https://api.discogs.com/artists/4437085",
-            "role": "",
-            "tracks": ""
-          },
-          {
-            "anv": "",
-            "id": 4453899,
-            "join": "",
-            "name": "Phil Evans (9)",
-            "resource_url": "https://api.discogs.com/artists/4453899",
-            "role": "",
-            "tracks": ""
-          }
-        ],
-        "cover_image": "https://i.discogs.com/uTVpEtvns1vZNKuv_qaqNWRtKimw7Oo9E--eHvZLqiQ/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzY5/NzYtMTQ0NTE2Njg4/Ny04Nzc2LmpwZWc.jpeg",
-        "formats": [
-          {
-            "descriptions": [
-              "10\"",
-              "EP"
-            ],
-            "name": "Vinyl",
-            "qty": "1"
-          }
-        ],
-        "genres": [
-          "Electronic"
-        ],
-        "id": 7076976,
-        "labels": [
-          {
-            "catno": "SR005.5",
-            "entity_type": "1",
-            "entity_type_name": "Label",
-            "id": 926557,
-            "name": "Sensual Records (2)",
-            "resource_url": "https://api.discogs.com/labels/926557"
-          }
-        ],
-        "master_id": 0,
-        "master_url": null,
-        "resource_url": "https://api.discogs.com/releases/7076976",
-        "styles": [
-          "Breakbeat",
-          "House"
-        ],
-        "thumb": "https://i.discogs.com/yaj6r6S33dIY6qxxEhLozPi1e9FfeA94RwhOh9ONLRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzY5/NzYtMTQ0NTE2Njg4/Ny04Nzc2LmpwZWc.jpeg",
-        "title": "Strange Advise EP",
-        "year": 2015
-      },
-      "date_added": "2026-10-10T08:56:05-07:00",
-      "id": 7076976,
-      "rating": 0,
-      "resource_url": "https://api.discogs.com/users/chris-towa/wants/7076976"
-    },
-    {
-      "basic_information": {
-        "artists": [
-          {
-            "anv": "",
             "id": 22255,
             "join": "",
             "name": "D'Julz",
@@ -40619,59 +40499,6 @@
       "id": 8883077,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/8883077"
-    },
-    {
-      "basic_information": {
-        "artists": [
-          {
-            "anv": "",
-            "id": 110877,
-            "join": "",
-            "name": "Suzukiski",
-            "resource_url": "https://api.discogs.com/artists/110877",
-            "role": "",
-            "tracks": ""
-          }
-        ],
-        "cover_image": "https://i.discogs.com/-1QJk3z3t47K03K7UP9wE74UmwUFXRGLmfqAb1DcfTg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTEx/Mi0xMTU1ODAxNjQ4/LmpwZWc.jpeg",
-        "formats": [
-          {
-            "descriptions": [
-              "12\""
-            ],
-            "name": "Vinyl",
-            "qty": "1"
-          }
-        ],
-        "genres": [
-          "Electronic"
-        ],
-        "id": 401112,
-        "labels": [
-          {
-            "catno": "soup-dish06",
-            "entity_type": "1",
-            "entity_type_name": "Label",
-            "id": 5423,
-            "name": "Soup-Disk",
-            "resource_url": "https://api.discogs.com/labels/5423"
-          }
-        ],
-        "master_id": 1145301,
-        "master_url": "https://api.discogs.com/masters/1145301",
-        "resource_url": "https://api.discogs.com/releases/401112",
-        "styles": [
-          "Abstract",
-          "Tech House"
-        ],
-        "thumb": "https://i.discogs.com/SxykI0hrv-ZiLyWy5NJlD_yS-sZ7vrMtl7YUzI8q9vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTEx/Mi0xMTU1ODAxNjQ4/LmpwZWc.jpeg",
-        "title": "Action E.P.",
-        "year": 2003
-      },
-      "date_added": "2017-03-03T09:21:09-08:00",
-      "id": 401112,
-      "rating": 0,
-      "resource_url": "https://api.discogs.com/users/chris-towa/wants/401112"
     },
     {
       "basic_information": {

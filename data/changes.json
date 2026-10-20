@@ -1,9 +1,123 @@
 {
-  "collection_added": [],
+  "collection_added": [
+    {
+      "added": "2026-10-19T08:58:14-07:00",
+      "artist": "Freaks",
+      "label": "Wash House",
+      "release_id": 1629953,
+      "title": "Oh No ! Not Another Washing Machine / 80's Throwback 90's Comeback",
+      "year": 0
+    },
+    {
+      "added": "2026-10-19T08:58:17-07:00",
+      "artist": "Le Clic",
+      "label": "Wolfskuil Records",
+      "release_id": 738692,
+      "title": "Jack Is Whack EP",
+      "year": 2006
+    },
+    {
+      "added": "2026-10-19T08:58:20-07:00",
+      "artist": "Suzukiski",
+      "label": "Soup-Disk",
+      "release_id": 401112,
+      "title": "Action E.P.",
+      "year": 2003
+    },
+    {
+      "added": "2026-10-19T08:58:22-07:00",
+      "artist": "Paularner",
+      "label": "Pressure Traxx Silver Series",
+      "release_id": 17616133,
+      "title": "Shinobi EP",
+      "year": 2021
+    },
+    {
+      "added": "2026-10-19T08:58:24-07:00",
+      "artist": "Shampoo Douglas",
+      "label": "Lemak Records",
+      "release_id": 14036777,
+      "title": "InstaGame 4 PistaFame",
+      "year": 2019
+    },
+    {
+      "added": "2026-10-19T08:58:30-07:00",
+      "artist": "Markus Sommer (2), Phil Evans (9)",
+      "label": "Sensual Records (2)",
+      "release_id": 7076976,
+      "title": "Strange Advise EP",
+      "year": 2015
+    },
+    {
+      "added": "2026-10-19T08:58:32-07:00",
+      "artist": "Daniel Roth",
+      "label": "Jax",
+      "release_id": 3183101,
+      "title": "Graveyard Rodeo",
+      "year": 2011
+    },
+    {
+      "added": "2026-10-19T08:58:37-07:00",
+      "artist": "Various",
+      "label": "OFFFM",
+      "release_id": 11951513,
+      "title": "OFFFM #2",
+      "year": 2018
+    },
+    {
+      "added": "2026-10-19T08:58:40-07:00",
+      "artist": "Martyné, Jacob Chenaux, Bodin",
+      "label": "Pressure Traxx",
+      "release_id": 11565879,
+      "title": "Scale EP",
+      "year": 2018
+    },
+    {
+      "added": "2026-10-19T08:58:45-07:00",
+      "artist": "Youandewan",
+      "label": "Pure Shores",
+      "release_id": 15959109,
+      "title": "Pure Shores 001",
+      "year": 2020
+    },
+    {
+      "added": "2026-10-19T08:58:49-07:00",
+      "artist": "Sweely",
+      "label": "Global Swing",
+      "release_id": 26142890,
+      "title": "Bring It On",
+      "year": 2023
+    }
+  ],
   "collection_removed": [],
-  "generated_at": "2026-10-19T05:48:35.172395+00:00",
+  "generated_at": "2026-10-20T05:47:46.309244+00:00",
   "initial_sync": false,
   "username": "chris-towa",
   "wantlist_added": [],
-  "wantlist_removed": []
+  "wantlist_removed": [
+    {
+      "added": "2025-01-14T08:52:05-08:00",
+      "artist": "Sweely",
+      "label": "Global Swing",
+      "release_id": 26142890,
+      "title": "Bring It On",
+      "year": 2023
+    },
+    {
+      "added": "2017-03-03T09:21:09-08:00",
+      "artist": "Suzukiski",
+      "label": "Soup-Disk",
+      "release_id": 401112,
+      "title": "Action E.P.",
+      "year": 2003
+    },
+    {
+      "added": "2026-10-10T08:56:05-07:00",
+      "artist": "Markus Sommer (2), Phil Evans (9)",
+      "label": "Sensual Records (2)",
+      "release_id": 7076976,
+      "title": "Strange Advise EP",
+      "year": 2015
+    }
+  ]
 }

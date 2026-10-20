@@ -4418,6 +4418,63 @@
         "artists": [
           {
             "anv": "",
+            "id": 4629210,
+            "join": "",
+            "name": "Sweely",
+            "resource_url": "https://api.discogs.com/artists/4629210",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/Dxt3AlSzup0H4BfKp2pXJr9JICj-kGbLSf-k-I-Y_O0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQy/ODkwLTE3MDg3Mzgy/ODQtNDkyNC5wbmc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "33 ⅓ RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 26142890,
+        "labels": [
+          {
+            "catno": "GS002",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2618122,
+            "name": "Global Swing",
+            "resource_url": "https://api.discogs.com/labels/2618122"
+          }
+        ],
+        "master_id": 2984384,
+        "master_url": "https://api.discogs.com/masters/2984384",
+        "resource_url": "https://api.discogs.com/releases/26142890",
+        "styles": [
+          "House",
+          "Garage House",
+          "Deep House",
+          "Tech House",
+          "Freestyle"
+        ],
+        "thumb": "https://i.discogs.com/oXL0PX46kM4FE9f4RJbmmy3nlm0VpqEAae7oBDR7vDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQy/ODkwLTE3MDg3Mzgy/ODQtNDkyNC5wbmc.jpeg",
+        "title": "Bring It On",
+        "year": 2023
+      },
+      "date_added": "2026-10-19T08:58:49-07:00",
+      "id": 26142890,
+      "instance_id": 2195823484,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 1500084,
             "join": "",
             "name": "James Blake",
@@ -5945,6 +6002,60 @@
       "basic_information": {
         "artists": [
           {
+            "anv": "",
+            "id": 1575353,
+            "join": "",
+            "name": "Daniel Roth",
+            "resource_url": "https://api.discogs.com/artists/1575353",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/n0DKlzNm1IyzHyKuKz7pYP50OdA72D6ZmKz8VhnuSRE/rs:fit/g:sm/q:90/h:600/w:406/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODMx/MDEtMTMxOTQ3MzIw/Ny5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\""
+            ],
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "+Print"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 3183101,
+        "labels": [
+          {
+            "catno": "JAX 003",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 214562,
+            "name": "Jax",
+            "resource_url": "https://api.discogs.com/labels/214562"
+          }
+        ],
+        "master_id": 3260113,
+        "master_url": "https://api.discogs.com/masters/3260113",
+        "resource_url": "https://api.discogs.com/releases/3183101",
+        "styles": [
+          "House",
+          "Techno"
+        ],
+        "thumb": "https://i.discogs.com/2vcOvNFKTPWyF8Zq2lpibeBsWwgsjPrcn5R4Xjrcd6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODMx/MDEtMTMxOTQ3MzIw/Ny5qcGVn.jpeg",
+        "title": "Graveyard Rodeo",
+        "year": 2011
+      },
+      "date_added": "2026-10-19T08:58:32-07:00",
+      "id": 3183101,
+      "instance_id": 2195823393,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
             "anv": "Cirez.D",
             "id": 150373,
             "join": "",
@@ -6379,6 +6490,63 @@
       "date_added": "2014-06-19T12:20:37-07:00",
       "id": 5073667,
       "instance_id": 107677511,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 6526420,
+            "join": "",
+            "name": "Shampoo Douglas",
+            "resource_url": "https://api.discogs.com/artists/6526420",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/kBDrZ4m5LvmeMy03JL2DD0eG1FEwNaVBGnqkiWaFXlY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM2/Nzc3LTE1ODIyMTMy/NDItMTU5MC5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "33 ⅓ RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 14036777,
+        "labels": [
+          {
+            "catno": "LMK003",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1532726,
+            "name": "Lemak Records",
+            "resource_url": "https://api.discogs.com/labels/1532726"
+          }
+        ],
+        "master_id": 1897404,
+        "master_url": "https://api.discogs.com/masters/1897404",
+        "resource_url": "https://api.discogs.com/releases/14036777",
+        "styles": [
+          "Deep House",
+          "Tech House",
+          "Minimal",
+          "Electro",
+          "Breaks"
+        ],
+        "thumb": "https://i.discogs.com/ks7G3lz8SRxUjV1sptOEq7l6sdjALDhxk3XJStt0nTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM2/Nzc3LTE1ODIyMTMy/NDItMTU5MC5qcGVn.jpeg",
+        "title": "InstaGame 4 PistaFame",
+        "year": 2019
+      },
+      "date_added": "2026-10-19T08:58:24-07:00",
+      "id": 14036777,
+      "instance_id": 2195823341,
       "rating": 0
     },
     {
@@ -8837,6 +9005,62 @@
         "artists": [
           {
             "anv": "",
+            "id": 194,
+            "join": "",
+            "name": "Various",
+            "resource_url": "https://api.discogs.com/artists/194",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/lN6ulEq4TyySXlW21tI9BDIf6lCUr3Cn59YOveqGk_0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUx/NTEzLTE1ODAzNDg3/ODctMzUwMy5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "Compilation"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 11951513,
+        "labels": [
+          {
+            "catno": "OFFFM002",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1355967,
+            "name": "OFFFM",
+            "resource_url": "https://api.discogs.com/labels/1355967"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/11951513",
+        "styles": [
+          "House",
+          "Techno",
+          "Minimal",
+          "Acid"
+        ],
+        "thumb": "https://i.discogs.com/PVhmeu2zWb3oAT215Ymv77ul6jHm86psEMegtKarclA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUx/NTEzLTE1ODAzNDg3/ODctMzUwMy5qcGVn.jpeg",
+        "title": "OFFFM #2",
+        "year": 2018
+      },
+      "date_added": "2026-10-19T08:58:37-07:00",
+      "id": 11951513,
+      "instance_id": 2195823427,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 1656,
             "join": "",
             "name": "Isolée",
@@ -10015,6 +10239,132 @@
         "artists": [
           {
             "anv": "",
+            "id": 2297795,
+            "join": "&",
+            "name": "Martyné",
+            "resource_url": "https://api.discogs.com/artists/2297795",
+            "role": "",
+            "tracks": ""
+          },
+          {
+            "anv": "",
+            "id": 4197555,
+            "join": "/",
+            "name": "Jacob Chenaux",
+            "resource_url": "https://api.discogs.com/artists/4197555",
+            "role": "",
+            "tracks": ""
+          },
+          {
+            "anv": "",
+            "id": 593423,
+            "join": "",
+            "name": "Bodin",
+            "resource_url": "https://api.discogs.com/artists/593423",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/8GDlW3nNqqoylWKA0wFv6NjoWGwmueEUGgt03OHiAow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY1/ODc5LTE1MTg2MTA1/NjktMjU2NS5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "EP"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 11565879,
+        "labels": [
+          {
+            "catno": "PTX 020",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 450274,
+            "name": "Pressure Traxx",
+            "resource_url": "https://api.discogs.com/labels/450274"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/11565879",
+        "styles": [
+          "Minimal",
+          "Electro"
+        ],
+        "thumb": "https://i.discogs.com/rtzvBorXjscU7fgQcyO861YXzfH_h1y1scYezZ1ait8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY1/ODc5LTE1MTg2MTA1/NjktMjU2NS5qcGVn.jpeg",
+        "title": "Scale EP",
+        "year": 2018
+      },
+      "date_added": "2026-10-19T08:58:40-07:00",
+      "id": 11565879,
+      "instance_id": 2195823443,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 8864647,
+            "join": "",
+            "name": "Paularner",
+            "resource_url": "https://api.discogs.com/artists/8864647",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/n4Enpkz2mpRq4W72WiO5rRPOVk6Ue1Uc0_xfEs-KQ8U/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjE2/MTMzLTE2MTQ3MDc1/ODMtODI5NC5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "33 ⅓ RPM",
+              "EP"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 17616133,
+        "labels": [
+          {
+            "catno": "PTXS 014",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 671075,
+            "name": "Pressure Traxx Silver Series",
+            "resource_url": "https://api.discogs.com/labels/671075"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/17616133",
+        "styles": [
+          "Minimal"
+        ],
+        "thumb": "https://i.discogs.com/iuEwzqkcBldcKok75GMjEye_pBYEG_gZ9pi3JE5z2Jc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjE2/MTMzLTE2MTQ3MDc1/ODMtODI5NC5qcGVn.jpeg",
+        "title": "Shinobi EP",
+        "year": 2021
+      },
+      "date_added": "2026-10-19T08:58:22-07:00",
+      "id": 17616133,
+      "instance_id": 2195823328,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 2815577,
             "join": "&",
             "name": "Frost (26)",
@@ -10215,6 +10565,60 @@
       "date_added": "2017-01-12T10:45:19-08:00",
       "id": 661168,
       "instance_id": 207347339,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 1375093,
+            "join": "",
+            "name": "Youandewan",
+            "resource_url": "https://api.discogs.com/artists/1375093",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/MfmF8OFz9WkaRSFyi_xj1cmUlv_VefaO2OUlT8TVNbo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/MTA5LTE2MTg0MjIw/NDktMzczMi5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "45 RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "180g"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 15959109,
+        "labels": [
+          {
+            "catno": "PURESHORES-001",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1906812,
+            "name": "Pure Shores",
+            "resource_url": "https://api.discogs.com/labels/1906812"
+          }
+        ],
+        "master_id": 2045599,
+        "master_url": "https://api.discogs.com/masters/2045599",
+        "resource_url": "https://api.discogs.com/releases/15959109",
+        "styles": [
+          "Tech House"
+        ],
+        "thumb": "https://i.discogs.com/vbtb3b1MyNtzq1H8mqBVic-GfEME8Qm_HJU-BbgEIM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/MTA5LTE2MTg0MjIw/NDktMzczMi5qcGVn.jpeg",
+        "title": "Pure Shores 001",
+        "year": 2020
+      },
+      "date_added": "2026-10-19T08:58:45-07:00",
+      "id": 15959109,
+      "instance_id": 2195823463,
       "rating": 0
     },
     {
@@ -11892,6 +12296,69 @@
         "artists": [
           {
             "anv": "",
+            "id": 4437085,
+            "join": "/",
+            "name": "Markus Sommer (2)",
+            "resource_url": "https://api.discogs.com/artists/4437085",
+            "role": "",
+            "tracks": ""
+          },
+          {
+            "anv": "",
+            "id": 4453899,
+            "join": "",
+            "name": "Phil Evans (9)",
+            "resource_url": "https://api.discogs.com/artists/4453899",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/uTVpEtvns1vZNKuv_qaqNWRtKimw7Oo9E--eHvZLqiQ/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzY5/NzYtMTQ0NTE2Njg4/Ny04Nzc2LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "10\"",
+              "EP"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 7076976,
+        "labels": [
+          {
+            "catno": "SR005.5",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 926557,
+            "name": "Sensual Records (2)",
+            "resource_url": "https://api.discogs.com/labels/926557"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/7076976",
+        "styles": [
+          "Breakbeat",
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/yaj6r6S33dIY6qxxEhLozPi1e9FfeA94RwhOh9ONLRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzY5/NzYtMTQ0NTE2Njg4/Ny04Nzc2LmpwZWc.jpeg",
+        "title": "Strange Advise EP",
+        "year": 2015
+      },
+      "date_added": "2026-10-19T08:58:30-07:00",
+      "id": 7076976,
+      "instance_id": 2195823376,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 10935140,
             "join": "",
             "name": "Borren",
@@ -12431,6 +12898,59 @@
       "date_added": "2015-03-30T16:40:02-07:00",
       "id": 34124,
       "instance_id": 125360948,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 110877,
+            "join": "",
+            "name": "Suzukiski",
+            "resource_url": "https://api.discogs.com/artists/110877",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/-1QJk3z3t47K03K7UP9wE74UmwUFXRGLmfqAb1DcfTg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTEx/Mi0xMTU1ODAxNjQ4/LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\""
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 401112,
+        "labels": [
+          {
+            "catno": "soup-dish06",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 5423,
+            "name": "Soup-Disk",
+            "resource_url": "https://api.discogs.com/labels/5423"
+          }
+        ],
+        "master_id": 1145301,
+        "master_url": "https://api.discogs.com/masters/1145301",
+        "resource_url": "https://api.discogs.com/releases/401112",
+        "styles": [
+          "Abstract",
+          "Tech House"
+        ],
+        "thumb": "https://i.discogs.com/SxykI0hrv-ZiLyWy5NJlD_yS-sZ7vrMtl7YUzI8q9vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTEx/Mi0xMTU1ODAxNjQ4/LmpwZWc.jpeg",
+        "title": "Action E.P.",
+        "year": 2003
+      },
+      "date_added": "2026-10-19T08:58:20-07:00",
+      "id": 401112,
+      "instance_id": 2195823317,
       "rating": 0
     },
     {
@@ -13812,6 +14332,59 @@
         "artists": [
           {
             "anv": "",
+            "id": 3061,
+            "join": "",
+            "name": "Freaks",
+            "resource_url": "https://api.discogs.com/artists/3061",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/Gn9iypadGvD850dzdl6gSlBOtNjG3fyPMMDWt7RumnE/rs:fit/g:sm/q:90/h:288/w:344/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk5/NTMtMTU0NDcwMTQ4/Ni05MjU2LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "33 ⅓ RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 1629953,
+        "labels": [
+          {
+            "catno": "WH12004",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 10725,
+            "name": "Wash House",
+            "resource_url": "https://api.discogs.com/labels/10725"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/1629953",
+        "styles": [
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/9ogb1zZgYaSgFagxnYYutXTxCQetrUXkCQV-mq9AGqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk5/NTMtMTU0NDcwMTQ4/Ni05MjU2LmpwZWc.jpeg",
+        "title": "Oh No ! Not Another Washing Machine / 80's Throwback 90's Comeback",
+        "year": 0
+      },
+      "date_added": "2026-10-19T08:58:14-07:00",
+      "id": 1629953,
+      "instance_id": 2195823286,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 3765884,
             "join": "",
             "name": "Groove Riddim",
@@ -14023,6 +14596,60 @@
       "date_added": "2026-06-17T22:44:03-07:00",
       "id": 36405814,
       "instance_id": 2156157529,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 374957,
+            "join": "",
+            "name": "Le Clic",
+            "resource_url": "https://api.discogs.com/artists/374957",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/vTuGPrL273hAAJ3ZRg7nvPuBzcTJQlTdpfnoP7RR2GY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODY5/Mi0xMTUzNzM3NzAx/LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "EP"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 738692,
+        "labels": [
+          {
+            "catno": "WOLF 009-6",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 17384,
+            "name": "Wolfskuil Records",
+            "resource_url": "https://api.discogs.com/labels/17384"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/738692",
+        "styles": [
+          "Techno",
+          "Tech House"
+        ],
+        "thumb": "https://i.discogs.com/VuiIGZGv1YweuTrOTSEEH7q9GcrsOhrNWZWfU8dlX0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODY5/Mi0xMTUzNzM3NzAx/LmpwZWc.jpeg",
+        "title": "Jack Is Whack EP",
+        "year": 2006
+      },
+      "date_added": "2026-10-19T08:58:17-07:00",
+      "id": 738692,
+      "instance_id": 2195823304,
       "rating": 0
     },
     {
