@@ -10973,6 +10973,63 @@
         "artists": [
           {
             "anv": "",
+            "id": 137880,
+            "join": "",
+            "name": "Kanye West",
+            "resource_url": "https://api.discogs.com/artists/137880",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/irG8DCbH2wUwxqn3OdNCxmkkkIfUkCesKOsUbFGrWFo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg5/NDk4LTE1OTU5NTg2/NjEtMjE5NS5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Hip Hop",
+          "Funk / Soul"
+        ],
+        "id": 15689498,
+        "labels": [
+          {
+            "catno": "00602567784692",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 4241,
+            "name": "Def Jam Recordings",
+            "resource_url": "https://api.discogs.com/labels/4241"
+          }
+        ],
+        "master_id": 1372591,
+        "master_url": "https://api.discogs.com/masters/1372591",
+        "resource_url": "https://api.discogs.com/releases/15689498",
+        "styles": [
+          "Pop Rap",
+          "Contemporary R&B",
+          "Spoken Word"
+        ],
+        "thumb": "https://i.discogs.com/JU1epP1eDUr2ZfG2OVQqRyEyWlQ3TeFU7R0cPhrrUY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg5/NDk4LTE1OTU5NTg2/NjEtMjE5NS5qcGVn.jpeg",
+        "title": "Ye",
+        "year": 2020
+      },
+      "date_added": "2026-10-21T09:21:18-07:00",
+      "id": 15689498,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/15689498"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 3386,
             "join": "Featuring",
             "name": "Kevin Saunderson",
@@ -48874,6 +48931,61 @@
         "artists": [
           {
             "anv": "",
+            "id": 1561067,
+            "join": "",
+            "name": "Sampha",
+            "resource_url": "https://api.discogs.com/artists/1561067",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/gDC6_Kxvb8ndBTwsTkI7Gh2dxppYhlpeCT_3WuGLe4o/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ5/Nzk0LTE3MDkyMDQ5/MTEtNTMxNy5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic",
+          "Funk / Soul"
+        ],
+        "id": 28649794,
+        "labels": [
+          {
+            "catno": "YO312LP",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2175451,
+            "name": "Young (5)",
+            "resource_url": "https://api.discogs.com/labels/2175451"
+          }
+        ],
+        "master_id": 3281239,
+        "master_url": "https://api.discogs.com/masters/3281239",
+        "resource_url": "https://api.discogs.com/releases/28649794",
+        "styles": [
+          "Soul",
+          "Contemporary R&B"
+        ],
+        "thumb": "https://i.discogs.com/Yi9Nmur4y5i6eIWTNMT072B_T-OgVfufG2FW5yHrzW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ5/Nzk0LTE3MDkyMDQ5/MTEtNTMxNy5qcGVn.jpeg",
+        "title": "Lahai",
+        "year": 2023
+      },
+      "date_added": "2026-10-21T09:32:52-07:00",
+      "id": 28649794,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/28649794"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 1377987,
             "join": "",
             "name": "John Talabot",
@@ -48923,6 +49035,68 @@
       "id": 5065707,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/5065707"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 1561067,
+            "join": "",
+            "name": "Sampha",
+            "resource_url": "https://api.discogs.com/artists/1561067",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/O7BxpnUDnhInRulwA30u4Fh4mqPE-cXNhPjjmR4y0Tw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTE3/NzItMTU5ODQwMzM0/MC00NDA3LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          },
+          {
+            "descriptions": [
+              "Album"
+            ],
+            "name": "CD",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic",
+          "Funk / Soul"
+        ],
+        "id": 9751772,
+        "labels": [
+          {
+            "catno": "YTLP158",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 82232,
+            "name": "Young Turks",
+            "resource_url": "https://api.discogs.com/labels/82232"
+          }
+        ],
+        "master_id": 1127152,
+        "master_url": "https://api.discogs.com/masters/1127152",
+        "resource_url": "https://api.discogs.com/releases/9751772",
+        "styles": [
+          "Soul",
+          "Contemporary R&B"
+        ],
+        "thumb": "https://i.discogs.com/2KWSIBYGYI3KDMJfFGxSiSF7s2Fp8u7j9MkVKViF_0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTE3/NzItMTU5ODQwMzM0/MC00NDA3LmpwZWc.jpeg",
+        "title": "Process",
+        "year": 2017
+      },
+      "date_added": "2026-10-21T09:12:33-07:00",
+      "id": 9751772,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/9751772"
     },
     {
       "basic_information": {

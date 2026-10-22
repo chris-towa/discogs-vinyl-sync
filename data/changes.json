@@ -1,9 +1,34 @@
 {
   "collection_added": [],
   "collection_removed": [],
-  "generated_at": "2026-10-21T05:48:17.745864+00:00",
+  "generated_at": "2026-10-22T05:47:49.167695+00:00",
   "initial_sync": false,
   "username": "chris-towa",
-  "wantlist_added": [],
+  "wantlist_added": [
+    {
+      "added": "2026-10-21T09:21:18-07:00",
+      "artist": "Kanye West",
+      "label": "Def Jam Recordings",
+      "release_id": 15689498,
+      "title": "Ye",
+      "year": 2020
+    },
+    {
+      "added": "2026-10-21T09:32:52-07:00",
+      "artist": "Sampha",
+      "label": "Young (5)",
+      "release_id": 28649794,
+      "title": "Lahai",
+      "year": 2023
+    },
+    {
+      "added": "2026-10-21T09:12:33-07:00",
+      "artist": "Sampha",
+      "label": "Young Turks",
+      "release_id": 9751772,
+      "title": "Process",
+      "year": 2017
+    }
+  ],
   "wantlist_removed": []
 }
