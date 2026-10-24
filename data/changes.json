@@ -1,9 +1,26 @@
 {
   "collection_added": [],
   "collection_removed": [],
-  "generated_at": "2026-10-23T05:48:33.847313+00:00",
+  "generated_at": "2026-10-24T05:47:54.380757+00:00",
   "initial_sync": false,
   "username": "chris-towa",
-  "wantlist_added": [],
+  "wantlist_added": [
+    {
+      "added": "2026-10-23T05:31:40-07:00",
+      "artist": "Ramsey Lewis",
+      "label": "CBS/Sony",
+      "release_id": 1752377,
+      "title": "Sălongo",
+      "year": 1976
+    },
+    {
+      "added": "2026-10-23T04:29:59-07:00",
+      "artist": "Various",
+      "label": "Street Sounds",
+      "release_id": 510412,
+      "title": "Jazz Juice",
+      "year": 1985
+    }
+  ],
   "wantlist_removed": []
 }

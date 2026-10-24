@@ -8521,6 +8521,60 @@
         "artists": [
           {
             "anv": "",
+            "id": 55738,
+            "join": "",
+            "name": "Ramsey Lewis",
+            "resource_url": "https://api.discogs.com/artists/55738",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/uXyGiMrQWCIUBJSPDtispXGMGNMGy9DztQOqsYo2pR8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTIz/NzctMTQ3MjQ2MTk5/Ny0xNjI1LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Jazz"
+        ],
+        "id": 1752377,
+        "labels": [
+          {
+            "catno": "25AP 116",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 33078,
+            "name": "CBS/Sony",
+            "resource_url": "https://api.discogs.com/labels/33078"
+          }
+        ],
+        "master_id": 56489,
+        "master_url": "https://api.discogs.com/masters/56489",
+        "resource_url": "https://api.discogs.com/releases/1752377",
+        "styles": [
+          "Soul-Jazz",
+          "Jazz-Funk"
+        ],
+        "thumb": "https://i.discogs.com/hfjTZR9SfOm620XpopCnK1C7GVb9v5by5e334N9BWds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTIz/NzctMTQ3MjQ2MTk5/Ny0xNjI1LmpwZWc.jpeg",
+        "title": "Sălongo",
+        "year": 1976
+      },
+      "date_added": "2026-10-23T05:31:40-07:00",
+      "id": 1752377,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/1752377"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 8922,
             "join": "",
             "name": "Variable Frequency Technician",
@@ -41149,6 +41203,62 @@
       "id": 206879,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/206879"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 194,
+            "join": "",
+            "name": "Various",
+            "resource_url": "https://api.discogs.com/artists/194",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/OGQcoUXEczBxrFKpuDRHYBLIy_Kux_-6po8oqvYPTcM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDQx/Mi0xMjc2MjM3Nzk3/LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Compilation"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Jazz",
+          "Latin"
+        ],
+        "id": 510412,
+        "labels": [
+          {
+            "catno": "SOUND 1",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 906,
+            "name": "Street Sounds",
+            "resource_url": "https://api.discogs.com/labels/906"
+          }
+        ],
+        "master_id": 109892,
+        "master_url": "https://api.discogs.com/masters/109892",
+        "resource_url": "https://api.discogs.com/releases/510412",
+        "styles": [
+          "Jazz-Funk",
+          "MPB",
+          "Latin Jazz"
+        ],
+        "thumb": "https://i.discogs.com/lU3Lw74SqgwAxaHiLhPMrw6QnxidTstgl6NehCV_Uhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDQx/Mi0xMjc2MjM3Nzk3/LmpwZWc.jpeg",
+        "title": "Jazz Juice",
+        "year": 1985
+      },
+      "date_added": "2026-10-23T04:29:59-07:00",
+      "id": 510412,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/510412"
     },
     {
       "basic_information": {
