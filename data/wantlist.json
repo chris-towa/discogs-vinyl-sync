@@ -24696,6 +24696,60 @@
         "artists": [
           {
             "anv": "",
+            "id": 194,
+            "join": "",
+            "name": "Various",
+            "resource_url": "https://api.discogs.com/artists/194",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/128pJk8HcqsX1CtIYGPyAjPnnOC9P8d-oueJQUBrkI8/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQ1/MzQzLTE3NjIwMzc2/NzQtMjY4Mi5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\""
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 35445343,
+        "labels": [
+          {
+            "catno": "M.A.D 014.2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 756278,
+            "name": "M.A.D Records",
+            "resource_url": "https://api.discogs.com/labels/756278"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/35445343",
+        "styles": [
+          "House",
+          "Deep House",
+          "Acid House"
+        ],
+        "thumb": "https://i.discogs.com/srciFmRFPMhX9y1wpxSN4UvnHzRNrDAoOQo_noBqGWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQ1/MzQzLTE3NjIwMzc2/NzQtMjY4Mi5qcGVn.jpeg",
+        "title": "A M.A.D 5 YEARS Part 2",
+        "year": 2025
+      },
+      "date_added": "2026-10-24T13:45:16-07:00",
+      "id": 35445343,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/35445343"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 2748133,
             "join": "",
             "name": "Innerspace Halflife",

@@ -1,25 +1,17 @@
 {
   "collection_added": [],
   "collection_removed": [],
-  "generated_at": "2026-10-24T05:47:54.380757+00:00",
+  "generated_at": "2026-10-25T05:46:20.532096+00:00",
   "initial_sync": false,
   "username": "chris-towa",
   "wantlist_added": [
     {
-      "added": "2026-10-23T05:31:40-07:00",
-      "artist": "Ramsey Lewis",
-      "label": "CBS/Sony",
-      "release_id": 1752377,
-      "title": "Sălongo",
-      "year": 1976
-    },
-    {
-      "added": "2026-10-23T04:29:59-07:00",
+      "added": "2026-10-24T13:45:16-07:00",
       "artist": "Various",
-      "label": "Street Sounds",
-      "release_id": 510412,
-      "title": "Jazz Juice",
-      "year": 1985
+      "label": "M.A.D Records",
+      "release_id": 35445343,
+      "title": "A M.A.D 5 YEARS Part 2",
+      "year": 2025
     }
   ],
   "wantlist_removed": []
