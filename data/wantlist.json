@@ -11917,6 +11917,59 @@
         "artists": [
           {
             "anv": "",
+            "id": 273995,
+            "join": "",
+            "name": "Distant Strangers",
+            "resource_url": "https://api.discogs.com/artists/273995",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/HQLxvhaKaJbXgK035e5i_TnIclkEE0s6kYbQnPYfX9o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTY0/NC0xNzgwODQyMDcw/LTMzNTIuanBlZw.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "White Label"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 729644,
+        "labels": [
+          {
+            "catno": "DS 001",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 66565,
+            "name": "Distant Strangers",
+            "resource_url": "https://api.discogs.com/labels/66565"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/729644",
+        "styles": [
+          "Tech House"
+        ],
+        "thumb": "https://i.discogs.com/W96gPVss0ncUoDTAV1OFP395GJM4E3WjKGkKoXpGpG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTY0/NC0xNzgwODQyMDcw/LTMzNTIuanBlZw.jpeg",
+        "title": "Untitled",
+        "year": 2003
+      },
+      "date_added": "2026-10-26T14:26:11-07:00",
+      "id": 729644,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/729644"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 2920917,
             "join": "",
             "name": "Marquis Hawkes",
@@ -25381,6 +25434,123 @@
       "id": 172332,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/172332"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 71294,
+            "join": "Feat.",
+            "name": "Marvel & Eli",
+            "resource_url": "https://api.discogs.com/artists/71294",
+            "role": "",
+            "tracks": ""
+          },
+          {
+            "anv": "",
+            "id": 250933,
+            "join": "",
+            "name": "Leanne (2)",
+            "resource_url": "https://api.discogs.com/artists/250933",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/sFSBTpmaLyyS-xLhC3Cgjpq4Lqx2AhEWcRagG22QWv8/rs:fit/g:sm/q:90/h:412/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODE3/MzktMTM2MjY1NDk4/MS02NTI1LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "White Label",
+              "Promo"
+            ],
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Stickered"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 1281739,
+        "labels": [
+          {
+            "catno": "M 004",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 51712,
+            "name": "Marvelis Records",
+            "resource_url": "https://api.discogs.com/labels/51712"
+          }
+        ],
+        "master_id": 297150,
+        "master_url": "https://api.discogs.com/masters/297150",
+        "resource_url": "https://api.discogs.com/releases/1281739",
+        "styles": [
+          "UK Garage"
+        ],
+        "thumb": "https://i.discogs.com/tu1Jb_lrP__F3BeDktbXmPMM7jit0hsf1WQyzOnzyyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODE3/MzktMTM2MjY1NDk4/MS02NTI1LmpwZWc.jpeg",
+        "title": "No Calling",
+        "year": 2001
+      },
+      "date_added": "2026-10-26T22:14:07-07:00",
+      "id": 1281739,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/1281739"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 71294,
+            "join": "",
+            "name": "Marvel & Eli",
+            "resource_url": "https://api.discogs.com/artists/71294",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/DFsSDDSkVdPVMCZAudUvrgyF46i8B6CxJN75R_JuuIs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjEy/MC0xMTU1NjcxMzMz/LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "White Label"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 366120,
+        "labels": [
+          {
+            "catno": "M 005",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 51712,
+            "name": "Marvelis Records",
+            "resource_url": "https://api.discogs.com/labels/51712"
+          }
+        ],
+        "master_id": 297150,
+        "master_url": "https://api.discogs.com/masters/297150",
+        "resource_url": "https://api.discogs.com/releases/366120",
+        "styles": [
+          "UK Garage"
+        ],
+        "thumb": "https://i.discogs.com/_1WiavTErVFxPcWuUA0p65BFw9gKV7Sdt_hWHsFa1oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjEy/MC0xMTU1NjcxMzMz/LmpwZWc.jpeg",
+        "title": "No Callin' 2002",
+        "year": 2002
+      },
+      "date_added": "2026-10-26T22:14:20-07:00",
+      "id": 366120,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/366120"
     },
     {
       "basic_information": {
