@@ -1,34 +1,9 @@
 {
   "collection_added": [],
   "collection_removed": [],
-  "generated_at": "2026-10-27T05:49:24.079522+00:00",
+  "generated_at": "2026-10-28T05:56:41.537915+00:00",
   "initial_sync": false,
   "username": "chris-towa",
-  "wantlist_added": [
-    {
-      "added": "2026-10-26T22:14:07-07:00",
-      "artist": "Marvel & Eli, Leanne (2)",
-      "label": "Marvelis Records",
-      "release_id": 1281739,
-      "title": "No Calling",
-      "year": 2001
-    },
-    {
-      "added": "2026-10-26T22:14:20-07:00",
-      "artist": "Marvel & Eli",
-      "label": "Marvelis Records",
-      "release_id": 366120,
-      "title": "No Callin' 2002",
-      "year": 2002
-    },
-    {
-      "added": "2026-10-26T14:26:11-07:00",
-      "artist": "Distant Strangers",
-      "label": "Distant Strangers",
-      "release_id": 729644,
-      "title": "Untitled",
-      "year": 2003
-    }
-  ],
+  "wantlist_added": [],
   "wantlist_removed": []
 }
