@@ -2792,6 +2792,60 @@
         "artists": [
           {
             "anv": "",
+            "id": 4629210,
+            "join": "",
+            "name": "Sweely",
+            "resource_url": "https://api.discogs.com/artists/4629210",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/UZoLori4aSagVyvaUN1XcbYZfzqhHEzcCApngG5gAUw/rs:fit/g:sm/q:90/h:474/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODUy/NzI3LTE3OTMxMDYw/NTctNzY1My5qcGVn.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "EP"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 38852727,
+        "labels": [
+          {
+            "catno": "DISPLAY002",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1443281,
+            "name": "Display (3)",
+            "resource_url": "https://api.discogs.com/labels/1443281"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/38852727",
+        "styles": [
+          "Tech House",
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/ep_svo6XRMlgdyeOhz0K02yxG_zDO7g1RVFKxguxqYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODUy/NzI3LTE3OTMxMDYw/NTctNzY1My5qcGVn.jpeg",
+        "title": "A Call From Heav'n Ep",
+        "year": 2026
+      },
+      "date_added": "2026-10-31T11:55:18-07:00",
+      "id": 38852727,
+      "instance_id": 2199811896,
+      "rating": 0
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 6770651,
             "join": "",
             "name": "M4A4",
