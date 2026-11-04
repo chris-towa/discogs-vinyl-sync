@@ -1658,7 +1658,8 @@
         "formats": [
           {
             "descriptions": [
-              "12\""
+              "12\"",
+              "45 RPM"
             ],
             "name": "Vinyl",
             "qty": "1"
