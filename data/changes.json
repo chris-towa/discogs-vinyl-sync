@@ -1,51 +1,9 @@
 {
-  "collection_added": [
-    {
-      "added": "2026-11-05T22:42:59-08:00",
-      "artist": "Sampha",
-      "label": "Young (5)",
-      "release_id": 28649794,
-      "title": "Lahai",
-      "year": 2023
-    },
-    {
-      "added": "2026-11-05T22:43:12-08:00",
-      "artist": "Sampha",
-      "label": "Young Turks",
-      "release_id": 9751772,
-      "title": "Process",
-      "year": 2017
-    },
-    {
-      "added": "2026-11-05T22:44:09-08:00",
-      "artist": "Surprise Chef",
-      "label": "Concord Jazz, Universal Music",
-      "release_id": 38849529,
-      "title": "Frogs In A Pond",
-      "year": 2026
-    }
-  ],
+  "collection_added": [],
   "collection_removed": [],
-  "generated_at": "2026-11-07T05:59:25.411429+00:00",
+  "generated_at": "2026-11-08T06:00:35.603843+00:00",
   "initial_sync": false,
   "username": "chris-towa",
   "wantlist_added": [],
-  "wantlist_removed": [
-    {
-      "added": "2026-10-21T09:32:52-07:00",
-      "artist": "Sampha",
-      "label": "Young (5)",
-      "release_id": 28649794,
-      "title": "Lahai",
-      "year": 2023
-    },
-    {
-      "added": "2026-10-21T09:12:33-07:00",
-      "artist": "Sampha",
-      "label": "Young Turks",
-      "release_id": 9751772,
-      "title": "Process",
-      "year": 2017
-    }
-  ]
+  "wantlist_removed": []
 }
