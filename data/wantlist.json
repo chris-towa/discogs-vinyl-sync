@@ -8611,8 +8611,8 @@
             "resource_url": "https://api.discogs.com/labels/874438"
           }
         ],
-        "master_id": 0,
-        "master_url": null,
+        "master_id": 4402058,
+        "master_url": "https://api.discogs.com/masters/4402058",
         "resource_url": "https://api.discogs.com/releases/18466306",
         "styles": [
           "House",
