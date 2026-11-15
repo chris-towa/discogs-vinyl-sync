@@ -8615,7 +8615,9 @@
         "resource_url": "https://api.discogs.com/releases/18466306",
         "styles": [
           "House",
-          "Acid House"
+          "Acid House",
+          "Deep House",
+          "Techno"
         ],
         "thumb": "https://i.discogs.com/O3LXL0W1myJJ2CRgmWfjZLlu0fCl2ASmKbmez_Lwsrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDY2/MzA2LTE3MjA5ODEz/ODYtNDgwMy5qcGVn.jpeg",
         "title": "Cross Section Remixes",
