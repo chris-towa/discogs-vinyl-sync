@@ -9453,6 +9453,59 @@
         "artists": [
           {
             "anv": "",
+            "id": 40809,
+            "join": "",
+            "name": "Triple S",
+            "resource_url": "https://api.discogs.com/artists/40809",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/oFRXyNj8H9iZfhcQn-QbYOJKu_QsgzN8Ebfg6PMfTYk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/Ny0xNzAxODE0MTM3/LTEwMDIuanBlZw.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "45 RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 145927,
+        "labels": [
+          {
+            "catno": "edel0064060CLU",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1948,
+            "name": "Club Tools",
+            "resource_url": "https://api.discogs.com/labels/1948"
+          }
+        ],
+        "master_id": 136008,
+        "master_url": "https://api.discogs.com/masters/136008",
+        "resource_url": "https://api.discogs.com/releases/145927",
+        "styles": [
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/XbysjN239wsVfXj9v7WBHzzEcpMjJpsdx97IUTARB-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/Ny0xNzAxODE0MTM3/LTEwMDIuanBlZw.jpeg",
+        "title": "Keep Your Head (The Remixes)",
+        "year": 1997
+      },
+      "date_added": "2026-11-22T08:41:27-08:00",
+      "id": 145927,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/145927"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
             "id": 10665,
             "join": "",
             "name": "The Underground Crew",
@@ -26180,6 +26233,59 @@
       "basic_information": {
         "artists": [
           {
+            "anv": "",
+            "id": 2503,
+            "join": "",
+            "name": "Phil Weeks",
+            "resource_url": "https://api.discogs.com/artists/2503",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/fHPISzruZdM7tgNXMAMH8q8HdsUDAeRkF_ngPjgsr3o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU0/Ni0xMzU5NDc4MjA2/LTU1NjkuanBlZw.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "45 RPM"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 257546,
+        "labels": [
+          {
+            "catno": "MMU001",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 24083,
+            "name": "Minority Music",
+            "resource_url": "https://api.discogs.com/labels/24083"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/257546",
+        "styles": [
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/diKHjbYeIgn4-T16-ZKHnolL3fLbTS7qpJYLrNt-cxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU0/Ni0xMzU5NDc4MjA2/LTU1NjkuanBlZw.jpeg",
+        "title": "My Block",
+        "year": 2003
+      },
+      "date_added": "2026-11-23T06:12:53-08:00",
+      "id": 257546,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/257546"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
             "anv": "Herbert",
             "id": 22217,
             "join": "",
@@ -29545,6 +29651,61 @@
       "basic_information": {
         "artists": [
           {
+            "anv": "Smokey Bubblin 'B",
+            "id": 2907382,
+            "join": "",
+            "name": "Smokey Bubblin B",
+            "resource_url": "https://api.discogs.com/artists/2907382",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/35stzv3RfYJHON8VYaMiCj3OiYPO5fasdeXr3MNyxRs/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDAw/NTAzLTE3MDgxMDI5/NDctNjE1Ny5wbmc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "45 RPM",
+              "Single Sided",
+              "Promo"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 23400503,
+        "labels": [
+          {
+            "catno": "SBB003",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1735815,
+            "name": "Not On Label (Smokey Bubblin B Self-released)",
+            "resource_url": "https://api.discogs.com/labels/1735815"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/23400503",
+        "styles": [
+          "UK Garage"
+        ],
+        "thumb": "https://i.discogs.com/ZjU0rnIHPO9ey7J2bRmbZhSSlXDJTPt7BOC9SXrZyO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDAw/NTAzLTE3MDgxMDI5/NDctNjE1Ny5wbmc.jpeg",
+        "title": "Poison",
+        "year": 2022
+      },
+      "date_added": "2026-11-22T08:42:52-08:00",
+      "id": 23400503,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/23400503"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
             "anv": "",
             "id": 10901110,
             "join": "",
@@ -31724,6 +31885,59 @@
       "id": 3968837,
       "rating": 0,
       "resource_url": "https://api.discogs.com/users/chris-towa/wants/3968837"
+    },
+    {
+      "basic_information": {
+        "artists": [
+          {
+            "anv": "",
+            "id": 1376,
+            "join": "",
+            "name": "Mr. G",
+            "resource_url": "https://api.discogs.com/artists/1376",
+            "role": "",
+            "tracks": ""
+          }
+        ],
+        "cover_image": "https://i.discogs.com/Hf3s8k7P4AhGBuf1l9Jh8o0jcSRib5j-oqZdvJpN7po/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzU1/NzctMTQ1NzY4NjM3/Ni04MDc0LmpwZWc.jpeg",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "EP"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "genres": [
+          "Electronic"
+        ],
+        "id": 8235577,
+        "labels": [
+          {
+            "catno": "PG055S",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 308,
+            "name": "Phoenix G.",
+            "resource_url": "https://api.discogs.com/labels/308"
+          }
+        ],
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/8235577",
+        "styles": [
+          "House"
+        ],
+        "thumb": "https://i.discogs.com/DzzRfxKvv7YdDfh6pai_WEQ5xCNRd23qTeKgl8uWH1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzU1/NzctMTQ1NzY4NjM3/Ni04MDc0LmpwZWc.jpeg",
+        "title": "Still Here",
+        "year": 2016
+      },
+      "date_added": "2026-11-22T08:42:11-08:00",
+      "id": 8235577,
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/chris-towa/wants/8235577"
     },
     {
       "basic_information": {

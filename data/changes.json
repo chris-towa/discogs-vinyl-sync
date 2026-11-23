@@ -1,9 +1,42 @@
 {
   "collection_added": [],
   "collection_removed": [],
-  "generated_at": "2026-11-22T13:24:44.041468+00:00",
+  "generated_at": "2026-11-23T16:04:06.912713+00:00",
   "initial_sync": false,
   "username": "chris-towa",
-  "wantlist_added": [],
+  "wantlist_added": [
+    {
+      "added": "2026-11-22T08:41:27-08:00",
+      "artist": "Triple S",
+      "label": "Club Tools",
+      "release_id": 145927,
+      "title": "Keep Your Head (The Remixes)",
+      "year": 1997
+    },
+    {
+      "added": "2026-11-22T08:42:52-08:00",
+      "artist": "Smokey Bubblin B",
+      "label": "Not On Label (Smokey Bubblin B Self-released)",
+      "release_id": 23400503,
+      "title": "Poison",
+      "year": 2022
+    },
+    {
+      "added": "2026-11-23T06:12:53-08:00",
+      "artist": "Phil Weeks",
+      "label": "Minority Music",
+      "release_id": 257546,
+      "title": "My Block",
+      "year": 2003
+    },
+    {
+      "added": "2026-11-22T08:42:11-08:00",
+      "artist": "Mr. G",
+      "label": "Phoenix G.",
+      "release_id": 8235577,
+      "title": "Still Here",
+      "year": 2016
+    }
+  ],
   "wantlist_removed": []
 }
